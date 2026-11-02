@@ -124,6 +124,7 @@ python3 src/ai_analytics_assistant.py --demo
 ```
 
 The assistant loads `GEMINI_API_KEY`, `GEMINI_MODEL`, and the optional
-`DATABASE_URL` from the project-root `.env` file. Leave `DATABASE_URL` blank
+`DATABASE_URL` from the project-root `.env` file. The default Gemini model is
+`gemini-2.5-flash`. Leave `DATABASE_URL` blank
 to use the local SQLite fallback. On Windows PowerShell, use
 `Copy-Item .env.example .env` instead of `cp .env.example .env`.

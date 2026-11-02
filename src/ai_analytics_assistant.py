@@ -117,7 +117,7 @@ def validate_sql_safety_and_grain(sql_query: str) -> tuple[bool, list[str]]:
 
 
 class PropTechAnalyticsAssistant:
-    def __init__(self, repo_root: Path, model_name: str = "gemini-2.0-flash"):
+    def __init__(self, repo_root: Path, model_name: str = "gemini-2.5-flash"):
         self.repo_root = repo_root
         self.clean_dir = repo_root / "data" / "cleaned"
         load_dotenv(repo_root / ".env")
