@@ -1,0 +1,651 @@
+student_id,full_name,email,nationality,student_cohort,study_level,acquisition_channel,signup_date
+STU-1001,Student_1,student1@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Direct / Repeat,2026-09-11
+STU-1002,Student_2,student2@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Organic Search,2026-02-22
+STU-1003,Student_3,student3@sim-univ-china.example.org,China,International,Postgraduate (Masters),Organic Search,2026-08-19
+STU-1004,Student_4,student4@sim-univ-india.example.org,India,International,PhD / Research,Paid Social (Meta/IG),2026-05-17
+STU-1005,Student_5,student5@sim-univ-uk.example.org,UK,Domestic,Undergraduate,Paid Social (Meta/IG),2026-02-16
+STU-1006,Student_6,student6@sim-univ-china.example.org,China,International,Postgraduate (Masters),University Partner Referral,2026-05-16
+STU-1007,Student_7,student7@sim-univ-india.example.org,India,International,Undergraduate,Organic Search,2025-10-27
+STU-1008,Student_8,student8@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Unattributed / Direct,2025-10-30
+STU-1009,Student_9,student9@sim-univ-china.example.org,China,International,Undergraduate,Organic Search,2026-09-09
+STU-1010,Student_10,student10@sim-univ-china.example.org,China,International,Exchange / Foundation,Paid Social (Meta/IG),2026-07-12
+STU-1011,Student_11,student11@sim-univ-china.example.org,China,International,Undergraduate,Unattributed / Direct,2025-12-14
+STU-1012,Student_12,student12@sim-univ-usa.example.org,USA,International,PhD / Research,Organic Search,2026-01-02
+STU-1013,Student_13,student13@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Paid Social (Meta/IG),2025-10-13
+STU-1014,Student_14,student14@sim-univ-nigeria.example.org,Nigeria,International,Postgraduate (Masters),Direct / Repeat,2025-12-02
+STU-1015,Student_15,student15@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Student Ambassador,2025-09-15
+STU-1016,Student_16,student16@sim-univ-china.example.org,China,International,Exchange / Foundation,Organic Search,2026-08-20
+STU-1017,Student_17,student17@sim-univ-france.example.org,France,International,Postgraduate (Masters),Organic Search,2025-12-09
+STU-1018,Student_18,student18@sim-univ-malaysia.example.org,Malaysia,International,PhD / Research,Paid Social (Meta/IG),2025-11-27
+STU-1019,Student_19,student19@sim-univ-china.example.org,China,International,Postgraduate (Masters),Student Ambassador,2026-08-15
+STU-1020,Student_20,student20@sim-univ-china.example.org,China,International,Postgraduate (Masters),Paid Social (Meta/IG),2025-09-03
+STU-1021,Student_21,student21@sim-univ-india.example.org,India,International,Postgraduate (Masters),Student Ambassador,2026-09-01
+STU-1022,Student_22,student22@sim-univ-india.example.org,India,International,Undergraduate,Student Ambassador,2025-12-19
+STU-1023,Student_23,student23@sim-univ-nigeria.example.org,Nigeria,International,Exchange / Foundation,University Partner Referral,2025-12-31
+STU-1024,Student_24,student24@sim-univ-india.example.org,India,International,Postgraduate (Masters),Organic Search,2026-09-14
+STU-1025,Student_25,student25@sim-univ-china.example.org,China,International,Undergraduate,Paid Social (Meta/IG),2025-10-18
+STU-1026,Student_26,student26@sim-univ-usa.example.org,USA,International,Undergraduate,Paid Social (Meta/IG),2026-02-17
+STU-1027,Student_27,student27@sim-univ-france.example.org,France,International,Postgraduate (Masters),Organic Search,2025-10-19
+STU-1028,Student_28,student28@sim-univ-uk.example.org,UK,Domestic,Exchange / Foundation,Organic Search,2026-03-14
+STU-1029,Student_29,student29@sim-univ-uk.example.org,UK,Domestic,Undergraduate,Organic Search,2025-09-10
+STU-1030,Student_30,student30@sim-univ-china.example.org,China,International,Exchange / Foundation,Paid Social (Meta/IG),2026-06-15
+STU-1031,Student_31,student31@sim-univ-china.example.org,China,International,Undergraduate,Organic Search,2026-07-11
+STU-1032,Student_32,student32@sim-univ-usa.example.org,USA,International,Undergraduate,Organic Search,2026-06-26
+STU-1033,Student_33,student33@sim-univ-germany.example.org,Germany,International,Undergraduate,University Partner Referral,2026-04-25
+STU-1034,Student_34,student34@sim-univ-china.example.org,China,International,Undergraduate,Student Ambassador,2026-03-27
+STU-1035,Student_35,student35@sim-univ-india.example.org,India,International,Undergraduate,Student Ambassador,2025-12-06
+STU-1036,Student_36,student36@sim-univ-india.example.org,India,International,Undergraduate,Organic Search,2026-01-03
+STU-1037,Student_37,student37@sim-univ-india.example.org,India,International,PhD / Research,Organic Search,2025-12-31
+STU-1038,Student_38,student38@sim-univ-india.example.org,India,International,Postgraduate (Masters),Unattributed / Direct,2025-11-15
+STU-1039,Student_39,student39@sim-univ-india.example.org,India,International,Undergraduate,Paid Social (Meta/IG),2025-11-08
+STU-1040,Student_40,student40@sim-univ-china.example.org,China,International,Undergraduate,Student Ambassador,2026-03-29
+STU-1041,Student_41,student41@sim-univ-india.example.org,India,International,Postgraduate (Masters),Organic Search,2025-09-17
+STU-1042,Student_42,student42@sim-univ-china.example.org,China,International,Postgraduate (Masters),University Partner Referral,2026-08-15
+STU-1043,Student_43,student43@sim-univ-usa.example.org,USA,International,Postgraduate (Masters),Direct / Repeat,2025-10-10
+STU-1044,Student_44,student44@sim-univ-usa.example.org,USA,International,PhD / Research,Direct / Repeat,2026-04-14
+STU-1045,Student_45,student45@sim-univ-uk.example.org,UK,Domestic,Undergraduate,Organic Search,2026-07-01
+STU-1046,Student_46,student46@sim-univ-china.example.org,China,International,PhD / Research,University Partner Referral,2026-05-26
+STU-1047,Student_47,student47@sim-univ-india.example.org,India,International,Postgraduate (Masters),University Partner Referral,2026-05-08
+STU-1048,Student_48,student48@sim-univ-india.example.org,India,International,Postgraduate (Masters),University Partner Referral,2026-02-17
+STU-1049,Student_49,student49@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Direct / Repeat,2026-01-26
+STU-1050,Student_50,student50@sim-univ-china.example.org,China,International,Postgraduate (Masters),University Partner Referral,2026-03-10
+STU-1051,Student_51,student51@sim-univ-usa.example.org,USA,International,Undergraduate,Paid Social (Meta/IG),2026-05-13
+STU-1052,Student_52,student52@sim-univ-nigeria.example.org,Nigeria,International,Postgraduate (Masters),Paid Social (Meta/IG),2026-08-25
+STU-1053,Student_53,student53@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Paid Social (Meta/IG),2025-10-22
+STU-1054,Student_54,student54@sim-univ-france.example.org,France,International,Postgraduate (Masters),Direct / Repeat,2026-02-06
+STU-1055,Student_55,student55@sim-univ-nigeria.example.org,Nigeria,International,Undergraduate,Direct / Repeat,2026-04-20
+STU-1056,Student_56,student56@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Paid Social (Meta/IG),2025-10-21
+STU-1057,Student_57,student57@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),University Partner Referral,2026-04-09
+STU-1058,Student_58,student58@sim-univ-nigeria.example.org,Nigeria,International,Undergraduate,Paid Social (Meta/IG),2026-07-27
+STU-1059,Student_59,student59@sim-univ-india.example.org,India,International,Postgraduate (Masters),Paid Social (Meta/IG),2025-10-17
+STU-1060,Student_60,student60@sim-univ-nigeria.example.org,Nigeria,International,Undergraduate,University Partner Referral,2026-07-16
+STU-1061,Student_61,student61@sim-univ-india.example.org,India,International,Postgraduate (Masters),Organic Search,2026-06-25
+STU-1062,Student_62,student62@sim-univ-india.example.org,India,International,Exchange / Foundation,University Partner Referral,2025-10-20
+STU-1063,Student_63,student63@sim-univ-uk.example.org,UK,Domestic,Exchange / Foundation,Student Ambassador,2026-06-12
+STU-1064,Student_64,student64@sim-univ-china.example.org,China,International,Exchange / Foundation,Paid Social (Meta/IG),2026-02-13
+STU-1065,Student_65,student65@sim-univ-usa.example.org,USA,International,Undergraduate,Organic Search,2025-10-17
+STU-1066,Student_66,student66@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),University Partner Referral,2026-02-16
+STU-1067,Student_67,student67@sim-univ-china.example.org,China,International,Postgraduate (Masters),Organic Search,2025-12-25
+STU-1068,Student_68,student68@sim-univ-nigeria.example.org,Nigeria,International,Postgraduate (Masters),Direct / Repeat,2026-05-25
+STU-1069,Student_69,student69@sim-univ-usa.example.org,USA,International,Postgraduate (Masters),Direct / Repeat,2025-12-20
+STU-1070,Student_70,student70@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Unattributed / Direct,2025-12-05
+STU-1071,Student_71,student71@sim-univ-india.example.org,India,International,Undergraduate,Organic Search,2025-12-03
+STU-1072,Student_72,student72@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Unattributed / Direct,2026-07-17
+STU-1073,Student_73,student73@sim-univ-usa.example.org,USA,International,Postgraduate (Masters),Unattributed / Direct,2026-04-25
+STU-1074,Student_74,student74@sim-univ-usa.example.org,USA,International,PhD / Research,Student Ambassador,2026-07-17
+STU-1075,Student_75,student75@sim-univ-india.example.org,India,International,Postgraduate (Masters),Organic Search,2026-07-24
+STU-1076,Student_76,student76@sim-univ-nigeria.example.org,Nigeria,International,Undergraduate,Student Ambassador,2026-07-15
+STU-1077,Student_77,student77@sim-univ-india.example.org,India,International,Postgraduate (Masters),Paid Social (Meta/IG),2026-06-14
+STU-1078,Student_78,student78@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Unattributed / Direct,2025-11-25
+STU-1079,Student_79,student79@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Organic Search,2026-08-11
+STU-1080,Student_80,student80@sim-univ-malaysia.example.org,Malaysia,International,Postgraduate (Masters),Student Ambassador,2026-08-07
+STU-1081,Student_81,student81@sim-univ-india.example.org,India,International,Exchange / Foundation,Organic Search,2026-04-12
+STU-1082,Student_82,student82@sim-univ-uk.example.org,UK,Domestic,Undergraduate,Direct / Repeat,2026-02-28
+STU-1083,Student_83,student83@sim-univ-china.example.org,China,International,Postgraduate (Masters),Organic Search,2026-03-18
+STU-1084,Student_84,student84@sim-univ-india.example.org,India,International,Postgraduate (Masters),University Partner Referral,2026-02-04
+STU-1085,Student_85,student85@sim-univ-china.example.org,China,International,Postgraduate (Masters),Organic Search,2026-05-06
+STU-1086,Student_86,student86@sim-univ-china.example.org,China,International,Postgraduate (Masters),University Partner Referral,2025-10-28
+STU-1087,Student_87,student87@sim-univ-uk.example.org,UK,Domestic,Undergraduate,Paid Social (Meta/IG),2025-11-27
+STU-1088,Student_88,student88@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Student Ambassador,2025-11-16
+STU-1089,Student_89,student89@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),University Partner Referral,2026-02-16
+STU-1090,Student_90,student90@sim-univ-germany.example.org,Germany,International,PhD / Research,University Partner Referral,2025-12-14
+STU-1091,Student_91,student91@sim-univ-china.example.org,China,International,Undergraduate,University Partner Referral,2026-07-09
+STU-1092,Student_92,student92@sim-univ-india.example.org,India,International,PhD / Research,Organic Search,2026-04-09
+STU-1093,Student_93,student93@sim-univ-india.example.org,India,International,Postgraduate (Masters),Unattributed / Direct,2026-01-09
+STU-1094,Student_94,student94@sim-univ-usa.example.org,USA,International,PhD / Research,University Partner Referral,2025-12-03
+STU-1095,Student_95,student95@sim-univ-india.example.org,India,International,Postgraduate (Masters),Direct / Repeat,2026-04-23
+STU-1096,Student_96,student96@sim-univ-nigeria.example.org,Nigeria,International,Postgraduate (Masters),Paid Social (Meta/IG),2026-06-21
+STU-1097,Student_97,student97@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Organic Search,2026-01-30
+STU-1098,Student_98,student98@sim-univ-india.example.org,India,International,Postgraduate (Masters),Student Ambassador,2026-09-09
+STU-1099,Student_99,student99@sim-univ-usa.example.org,USA,International,Exchange / Foundation,Organic Search,2026-04-05
+STU-1100,Student_100,student100@sim-univ-china.example.org,China,International,Postgraduate (Masters),Paid Social (Meta/IG),2026-03-07
+STU-1101,Student_101,student101@sim-univ-india.example.org,India,International,Postgraduate (Masters),Unattributed / Direct,2026-03-03
+STU-1102,Student_102,student102@sim-univ-india.example.org,India,International,Postgraduate (Masters),University Partner Referral,2026-06-10
+STU-1103,Student_103,student103@sim-univ-india.example.org,India,International,Postgraduate (Masters),Student Ambassador,2026-03-12
+STU-1104,Student_104,student104@sim-univ-uk.example.org,UK,Domestic,Undergraduate,Unattributed / Direct,2026-06-10
+STU-1105,Student_105,student105@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Student Ambassador,2026-01-21
+STU-1106,Student_106,student106@sim-univ-nigeria.example.org,Nigeria,International,PhD / Research,University Partner Referral,2025-12-28
+STU-1107,Student_107,student107@sim-univ-usa.example.org,USA,International,Postgraduate (Masters),University Partner Referral,2026-04-17
+STU-1108,Student_108,student108@sim-univ-india.example.org,India,International,Postgraduate (Masters),Direct / Repeat,2026-01-31
+STU-1109,Student_109,student109@sim-univ-china.example.org,China,International,Postgraduate (Masters),Organic Search,2025-11-09
+STU-1110,Student_110,student110@sim-univ-china.example.org,China,International,Postgraduate (Masters),Unattributed / Direct,2026-02-10
+STU-1111,Student_111,student111@sim-univ-uk.example.org,UK,Domestic,Undergraduate,Direct / Repeat,2025-12-18
+STU-1112,Student_112,student112@sim-univ-china.example.org,China,International,Undergraduate,Direct / Repeat,2025-12-21
+STU-1113,Student_113,student113@sim-univ-nigeria.example.org,Nigeria,International,PhD / Research,Organic Search,2026-09-11
+STU-1114,Student_114,student114@sim-univ-china.example.org,China,International,Undergraduate,Paid Social (Meta/IG),2025-10-12
+STU-1115,Student_115,student115@sim-univ-india.example.org,India,International,Undergraduate,Paid Social (Meta/IG),2026-09-19
+STU-1116,Student_116,student116@sim-univ-india.example.org,India,International,Postgraduate (Masters),Student Ambassador,2026-08-08
+STU-1117,Student_117,student117@sim-univ-china.example.org,China,International,Exchange / Foundation,University Partner Referral,2026-09-20
+STU-1118,Student_118,student118@sim-univ-india.example.org,India,International,Undergraduate,Student Ambassador,2026-02-21
+STU-1119,Student_119,student119@sim-univ-india.example.org,India,International,Postgraduate (Masters),Organic Search,2026-07-18
+STU-1120,Student_120,student120@sim-univ-uk.example.org,UK,Domestic,Undergraduate,Student Ambassador,2026-06-16
+STU-1121,Student_121,student121@sim-univ-usa.example.org,USA,International,Postgraduate (Masters),Organic Search,2026-06-16
+STU-1122,Student_122,student122@sim-univ-usa.example.org,USA,International,Postgraduate (Masters),University Partner Referral,2026-03-26
+STU-1123,Student_123,student123@sim-univ-china.example.org,China,International,PhD / Research,Paid Social (Meta/IG),2025-09-12
+STU-1124,Student_124,student124@sim-univ-usa.example.org,USA,International,Postgraduate (Masters),Student Ambassador,2026-06-04
+STU-1125,Student_125,student125@sim-univ-china.example.org,China,International,Postgraduate (Masters),Student Ambassador,2026-04-19
+STU-1126,Student_126,student126@sim-univ-india.example.org,India,International,Postgraduate (Masters),Paid Social (Meta/IG),2026-03-28
+STU-1127,Student_127,student127@sim-univ-india.example.org,India,International,Postgraduate (Masters),Organic Search,2026-09-25
+STU-1128,Student_128,student128@sim-univ-malaysia.example.org,Malaysia,International,Undergraduate,Paid Social (Meta/IG),2026-03-13
+STU-1129,Student_129,student129@sim-univ-china.example.org,China,International,Postgraduate (Masters),University Partner Referral,2026-08-23
+STU-1130,Student_130,student130@sim-univ-india.example.org,India,International,Postgraduate (Masters),University Partner Referral,2026-08-10
+STU-1131,Student_131,student131@sim-univ-china.example.org,China,International,Exchange / Foundation,Paid Social (Meta/IG),2026-01-12
+STU-1132,Student_132,student132@sim-univ-india.example.org,India,International,PhD / Research,Organic Search,2026-08-14
+STU-1133,Student_133,student133@sim-univ-uk.example.org,UK,Domestic,Undergraduate,Paid Social (Meta/IG),2026-08-21
+STU-1134,Student_134,student134@sim-univ-india.example.org,India,International,Postgraduate (Masters),University Partner Referral,2026-01-14
+STU-1135,Student_135,student135@sim-univ-india.example.org,India,International,Undergraduate,Student Ambassador,2026-08-07
+STU-1136,Student_136,student136@sim-univ-china.example.org,China,International,Postgraduate (Masters),Direct / Repeat,2025-12-09
+STU-1137,Student_137,student137@sim-univ-germany.example.org,Germany,International,Undergraduate,Organic Search,2026-07-15
+STU-1138,Student_138,student138@sim-univ-india.example.org,India,International,Undergraduate,Direct / Repeat,2026-08-31
+STU-1139,Student_139,student139@sim-univ-india.example.org,India,International,Exchange / Foundation,Unattributed / Direct,2026-02-16
+STU-1140,Student_140,student140@sim-univ-india.example.org,India,International,Postgraduate (Masters),University Partner Referral,2026-07-06
+STU-1141,Student_141,student141@sim-univ-india.example.org,India,International,Postgraduate (Masters),University Partner Referral,2025-12-31
+STU-1142,Student_142,student142@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Organic Search,2025-11-29
+STU-1143,Student_143,student143@sim-univ-india.example.org,India,International,Postgraduate (Masters),Unattributed / Direct,2026-02-10
+STU-1144,Student_144,student144@sim-univ-china.example.org,China,International,Undergraduate,University Partner Referral,2026-04-03
+STU-1145,Student_145,student145@sim-univ-usa.example.org,USA,International,Postgraduate (Masters),University Partner Referral,2026-07-02
+STU-1146,Student_146,student146@sim-univ-china.example.org,China,International,Undergraduate,Organic Search,2025-12-06
+STU-1147,Student_147,student147@sim-univ-india.example.org,India,International,Postgraduate (Masters),Paid Social (Meta/IG),2026-08-29
+STU-1148,Student_148,student148@sim-univ-india.example.org,India,International,Postgraduate (Masters),Unattributed / Direct,2026-08-30
+STU-1149,Student_149,student149@sim-univ-india.example.org,India,International,Postgraduate (Masters),Paid Social (Meta/IG),2025-11-13
+STU-1150,Student_150,student150@sim-univ-uk.example.org,UK,Domestic,Undergraduate,Unattributed / Direct,2025-12-19
+STU-1151,Student_151,student151@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Student Ambassador,2026-07-30
+STU-1152,Student_152,student152@sim-univ-india.example.org,India,International,PhD / Research,University Partner Referral,2026-08-21
+STU-1153,Student_153,student153@sim-univ-china.example.org,China,International,Undergraduate,Organic Search,2026-09-20
+STU-1154,Student_154,student154@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),University Partner Referral,2026-07-19
+STU-1155,Student_155,student155@sim-univ-india.example.org,India,International,Postgraduate (Masters),Organic Search,2025-10-01
+STU-1156,Student_156,student156@sim-univ-nigeria.example.org,Nigeria,International,Undergraduate,Paid Social (Meta/IG),2025-10-19
+STU-1157,Student_157,student157@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Organic Search,2026-08-14
+STU-1158,Student_158,student158@sim-univ-india.example.org,India,International,Undergraduate,Unattributed / Direct,2026-08-27
+STU-1159,Student_159,student159@sim-univ-malaysia.example.org,Malaysia,International,Undergraduate,Organic Search,2025-09-07
+STU-1160,Student_160,student160@sim-univ-germany.example.org,Germany,International,Undergraduate,Paid Social (Meta/IG),2026-06-09
+STU-1161,Student_161,student161@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Paid Social (Meta/IG),2025-09-20
+STU-1162,Student_162,student162@sim-univ-india.example.org,India,International,Undergraduate,Organic Search,2026-07-25
+STU-1163,Student_163,student163@sim-univ-uk.example.org,UK,Domestic,Undergraduate,University Partner Referral,2025-12-08
+STU-1164,Student_164,student164@sim-univ-nigeria.example.org,Nigeria,International,Undergraduate,Paid Social (Meta/IG),2025-10-29
+STU-1165,Student_165,student165@sim-univ-china.example.org,China,International,Postgraduate (Masters),Student Ambassador,2026-02-11
+STU-1166,Student_166,student166@sim-univ-china.example.org,China,International,Postgraduate (Masters),Student Ambassador,2025-11-02
+STU-1167,Student_167,student167@sim-univ-india.example.org,India,International,Exchange / Foundation,Organic Search,2026-05-25
+STU-1168,Student_168,student168@sim-univ-usa.example.org,USA,International,PhD / Research,Organic Search,2026-08-10
+STU-1169,Student_169,student169@sim-univ-germany.example.org,Germany,International,Postgraduate (Masters),University Partner Referral,2026-06-14
+STU-1170,Student_170,student170@sim-univ-nigeria.example.org,Nigeria,International,Undergraduate,University Partner Referral,2026-07-01
+STU-1171,Student_171,student171@sim-univ-germany.example.org,Germany,International,Undergraduate,Organic Search,2026-08-19
+STU-1172,Student_172,student172@sim-univ-nigeria.example.org,Nigeria,International,Postgraduate (Masters),Direct / Repeat,2026-07-11
+STU-1173,Student_173,student173@sim-univ-germany.example.org,Germany,International,Postgraduate (Masters),Organic Search,2026-06-08
+STU-1174,Student_174,student174@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Paid Social (Meta/IG),2026-03-16
+STU-1175,Student_175,student175@sim-univ-india.example.org,India,International,Postgraduate (Masters),University Partner Referral,2026-03-02
+STU-1176,Student_176,student176@sim-univ-india.example.org,India,International,Undergraduate,University Partner Referral,2026-06-11
+STU-1177,Student_177,student177@sim-univ-india.example.org,India,International,Undergraduate,Student Ambassador,2025-12-05
+STU-1178,Student_178,student178@sim-univ-india.example.org,India,International,Postgraduate (Masters),University Partner Referral,2026-02-25
+STU-1179,Student_179,student179@sim-univ-india.example.org,India,International,Undergraduate,Direct / Repeat,2025-12-11
+STU-1180,Student_180,student180@sim-univ-china.example.org,China,International,Postgraduate (Masters),Organic Search,2025-12-31
+STU-1181,Student_181,student181@sim-univ-germany.example.org,Germany,International,PhD / Research,Direct / Repeat,2026-06-26
+STU-1182,Student_182,student182@sim-univ-france.example.org,France,International,Postgraduate (Masters),Organic Search,2025-11-26
+STU-1183,Student_183,student183@sim-univ-india.example.org,India,International,PhD / Research,Paid Social (Meta/IG),2026-04-04
+STU-1184,Student_184,student184@sim-univ-india.example.org,India,International,Postgraduate (Masters),Organic Search,2026-01-25
+STU-1185,Student_185,student185@sim-univ-nigeria.example.org,Nigeria,International,Postgraduate (Masters),University Partner Referral,2026-04-16
+STU-1186,Student_186,student186@sim-univ-nigeria.example.org,Nigeria,International,Undergraduate,Organic Search,2026-02-07
+STU-1187,Student_187,student187@sim-univ-germany.example.org,Germany,International,Postgraduate (Masters),Organic Search,2025-10-18
+STU-1188,Student_188,student188@sim-univ-india.example.org,India,International,Postgraduate (Masters),University Partner Referral,2026-08-09
+STU-1189,Student_189,student189@sim-univ-usa.example.org,USA,International,PhD / Research,University Partner Referral,2026-06-04
+STU-1190,Student_190,student190@sim-univ-india.example.org,India,International,Postgraduate (Masters),Organic Search,2025-09-29
+STU-1191,Student_191,student191@sim-univ-nigeria.example.org,Nigeria,International,Undergraduate,University Partner Referral,2026-08-13
+STU-1192,Student_192,student192@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Organic Search,2025-11-11
+STU-1193,Student_193,student193@sim-univ-china.example.org,China,International,Exchange / Foundation,Organic Search,2026-09-07
+STU-1194,Student_194,student194@sim-univ-india.example.org,India,International,Postgraduate (Masters),Organic Search,2025-11-01
+STU-1195,Student_195,student195@sim-univ-china.example.org,China,International,Undergraduate,University Partner Referral,2026-08-24
+STU-1196,Student_196,student196@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Direct / Repeat,2026-07-16
+STU-1197,Student_197,student197@sim-univ-china.example.org,China,International,Postgraduate (Masters),Direct / Repeat,2026-06-17
+STU-1198,Student_198,student198@sim-univ-india.example.org,India,International,Postgraduate (Masters),Student Ambassador,2025-09-22
+STU-1199,Student_199,student199@sim-univ-nigeria.example.org,Nigeria,International,Postgraduate (Masters),Direct / Repeat,2026-06-20
+STU-1200,Student_200,student200@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Direct / Repeat,2026-08-09
+STU-1201,Student_201,student201@sim-univ-china.example.org,China,International,Postgraduate (Masters),Organic Search,2025-09-25
+STU-1202,Student_202,student202@sim-univ-china.example.org,China,International,PhD / Research,Organic Search,2026-06-08
+STU-1203,Student_203,student203@sim-univ-uk.example.org,UK,Domestic,Undergraduate,University Partner Referral,2026-02-27
+STU-1204,Student_204,student204@sim-univ-china.example.org,China,International,Postgraduate (Masters),Paid Social (Meta/IG),2026-04-16
+STU-1205,Student_205,student205@sim-univ-china.example.org,China,International,PhD / Research,Paid Social (Meta/IG),2025-09-16
+STU-1206,Student_206,student206@sim-univ-uk.example.org,UK,Domestic,Undergraduate,Organic Search,2026-06-06
+STU-1207,Student_207,student207@sim-univ-nigeria.example.org,Nigeria,International,Postgraduate (Masters),University Partner Referral,2026-01-21
+STU-1208,Student_208,student208@sim-univ-china.example.org,China,International,PhD / Research,University Partner Referral,2026-02-05
+STU-1209,Student_209,student209@sim-univ-china.example.org,China,International,Postgraduate (Masters),Organic Search,2026-01-12
+STU-1210,Student_210,student210@sim-univ-uk.example.org,UK,Domestic,Undergraduate,Unattributed / Direct,2026-08-13
+STU-1211,Student_211,student211@sim-univ-india.example.org,India,International,Undergraduate,Student Ambassador,2026-01-06
+STU-1212,Student_212,student212@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Organic Search,2025-12-19
+STU-1213,Student_213,student213@sim-univ-uk.example.org,UK,Domestic,PhD / Research,Organic Search,2025-12-20
+STU-1214,Student_214,student214@sim-univ-uk.example.org,UK,Domestic,Exchange / Foundation,Paid Social (Meta/IG),2025-12-30
+STU-1215,Student_215,student215@sim-univ-china.example.org,China,International,Exchange / Foundation,University Partner Referral,2026-05-02
+STU-1216,Student_216,student216@sim-univ-india.example.org,India,International,Postgraduate (Masters),Student Ambassador,2026-01-20
+STU-1217,Student_217,student217@sim-univ-france.example.org,France,International,PhD / Research,University Partner Referral,2026-02-21
+STU-1218,Student_218,student218@sim-univ-china.example.org,China,International,Undergraduate,University Partner Referral,2026-02-05
+STU-1219,Student_219,student219@sim-univ-france.example.org,France,International,PhD / Research,Direct / Repeat,2026-08-22
+STU-1220,Student_220,student220@sim-univ-nigeria.example.org,Nigeria,International,Undergraduate,University Partner Referral,2026-05-31
+STU-1221,Student_221,student221@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Organic Search,2025-12-03
+STU-1222,Student_222,student222@sim-univ-china.example.org,China,International,Postgraduate (Masters),Student Ambassador,2026-04-11
+STU-1223,Student_223,student223@sim-univ-india.example.org,India,International,Postgraduate (Masters),Student Ambassador,2025-11-05
+STU-1224,Student_224,student224@sim-univ-india.example.org,India,International,Undergraduate,Organic Search,2026-02-23
+STU-1225,Student_225,student225@sim-univ-india.example.org,India,International,Postgraduate (Masters),University Partner Referral,2026-09-25
+STU-1226,Student_226,student226@sim-univ-france.example.org,France,International,Exchange / Foundation,Organic Search,2026-04-18
+STU-1227,Student_227,student227@sim-univ-india.example.org,India,International,PhD / Research,Paid Social (Meta/IG),2026-07-06
+STU-1228,Student_228,student228@sim-univ-usa.example.org,USA,International,Postgraduate (Masters),University Partner Referral,2025-12-05
+STU-1229,Student_229,student229@sim-univ-uk.example.org,UK,Domestic,Undergraduate,Direct / Repeat,2026-03-15
+STU-1230,Student_230,student230@sim-univ-china.example.org,China,International,Postgraduate (Masters),Paid Social (Meta/IG),2026-01-03
+STU-1231,Student_231,student231@sim-univ-china.example.org,China,International,Postgraduate (Masters),Organic Search,2026-01-03
+STU-1232,Student_232,student232@sim-univ-china.example.org,China,International,Undergraduate,Student Ambassador,2026-09-01
+STU-1233,Student_233,student233@sim-univ-china.example.org,China,International,Undergraduate,Student Ambassador,2026-02-10
+STU-1234,Student_234,student234@sim-univ-germany.example.org,Germany,International,Postgraduate (Masters),Student Ambassador,2026-01-06
+STU-1235,Student_235,student235@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Unattributed / Direct,2025-10-30
+STU-1236,Student_236,student236@sim-univ-china.example.org,China,International,Undergraduate,Organic Search,2026-06-19
+STU-1237,Student_237,student237@sim-univ-india.example.org,India,International,Postgraduate (Masters),Student Ambassador,2026-07-19
+STU-1238,Student_238,student238@sim-univ-uk.example.org,UK,Domestic,Undergraduate,Organic Search,2026-04-01
+STU-1239,Student_239,student239@sim-univ-india.example.org,India,International,Undergraduate,University Partner Referral,2026-06-15
+STU-1240,Student_240,student240@sim-univ-china.example.org,China,International,Postgraduate (Masters),Organic Search,2026-05-11
+STU-1241,Student_241,student241@sim-univ-india.example.org,India,International,Postgraduate (Masters),Organic Search,2026-06-21
+STU-1242,Student_242,student242@sim-univ-usa.example.org,USA,International,Postgraduate (Masters),Direct / Repeat,2026-09-21
+STU-1243,Student_243,student243@sim-univ-china.example.org,China,International,Postgraduate (Masters),Student Ambassador,2026-05-13
+STU-1244,Student_244,student244@sim-univ-germany.example.org,Germany,International,Postgraduate (Masters),Organic Search,2026-09-05
+STU-1245,Student_245,student245@sim-univ-nigeria.example.org,Nigeria,International,Undergraduate,University Partner Referral,2025-12-22
+STU-1246,Student_246,student246@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Organic Search,2026-01-24
+STU-1247,Student_247,student247@sim-univ-india.example.org,India,International,Postgraduate (Masters),Paid Social (Meta/IG),2026-03-09
+STU-1248,Student_248,student248@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Organic Search,2025-11-03
+STU-1249,Student_249,student249@sim-univ-uk.example.org,UK,Domestic,Undergraduate,Unattributed / Direct,2026-01-01
+STU-1250,Student_250,student250@sim-univ-india.example.org,India,International,PhD / Research,Paid Social (Meta/IG),2026-07-25
+STU-1251,Student_251,student251@sim-univ-china.example.org,China,International,Postgraduate (Masters),Unattributed / Direct,2026-08-14
+STU-1252,Student_252,student252@sim-univ-india.example.org,India,International,Undergraduate,Organic Search,2025-09-11
+STU-1253,Student_253,student253@sim-univ-india.example.org,India,International,Postgraduate (Masters),University Partner Referral,2025-11-23
+STU-1254,Student_254,student254@sim-univ-india.example.org,India,International,PhD / Research,University Partner Referral,2025-12-05
+STU-1255,Student_255,student255@sim-univ-china.example.org,China,International,Postgraduate (Masters),Paid Social (Meta/IG),2025-09-22
+STU-1256,Student_256,student256@sim-univ-germany.example.org,Germany,International,PhD / Research,Organic Search,2025-09-20
+STU-1257,Student_257,student257@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Student Ambassador,2025-10-15
+STU-1258,Student_258,student258@sim-univ-usa.example.org,USA,International,Undergraduate,Unattributed / Direct,2025-11-21
+STU-1259,Student_259,student259@sim-univ-china.example.org,China,International,Exchange / Foundation,Paid Social (Meta/IG),2026-02-04
+STU-1260,Student_260,student260@sim-univ-india.example.org,India,International,Exchange / Foundation,University Partner Referral,2025-12-23
+STU-1261,Student_261,student261@sim-univ-china.example.org,China,International,Postgraduate (Masters),Paid Social (Meta/IG),2026-09-14
+STU-1262,Student_262,student262@sim-univ-china.example.org,China,International,Postgraduate (Masters),Organic Search,2025-09-13
+STU-1263,Student_263,student263@sim-univ-china.example.org,China,International,Postgraduate (Masters),University Partner Referral,2026-04-18
+STU-1264,Student_264,student264@sim-univ-france.example.org,France,International,Exchange / Foundation,University Partner Referral,2025-12-15
+STU-1265,Student_265,student265@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Paid Social (Meta/IG),2026-02-23
+STU-1266,Student_266,student266@sim-univ-china.example.org,China,International,Postgraduate (Masters),University Partner Referral,2025-12-29
+STU-1267,Student_267,student267@sim-univ-nigeria.example.org,Nigeria,International,Postgraduate (Masters),Organic Search,2025-11-04
+STU-1268,Student_268,student268@sim-univ-nigeria.example.org,Nigeria,International,Postgraduate (Masters),Student Ambassador,2025-11-10
+STU-1269,Student_269,student269@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Direct / Repeat,2026-04-21
+STU-1270,Student_270,student270@sim-univ-france.example.org,France,International,Undergraduate,Unattributed / Direct,2026-08-31
+STU-1271,Student_271,student271@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Paid Social (Meta/IG),2026-05-24
+STU-1272,Student_272,student272@sim-univ-china.example.org,China,International,Postgraduate (Masters),Organic Search,2026-09-01
+STU-1273,Student_273,student273@sim-univ-germany.example.org,Germany,International,Postgraduate (Masters),University Partner Referral,2026-01-07
+STU-1274,Student_274,student274@sim-univ-india.example.org,India,International,Undergraduate,University Partner Referral,2025-12-03
+STU-1275,Student_275,student275@sim-univ-malaysia.example.org,Malaysia,International,PhD / Research,Organic Search,2026-09-12
+STU-1276,Student_276,student276@sim-univ-germany.example.org,Germany,International,Postgraduate (Masters),Organic Search,2026-03-17
+STU-1277,Student_277,student277@sim-univ-uk.example.org,UK,Domestic,Exchange / Foundation,Paid Social (Meta/IG),2026-03-07
+STU-1278,Student_278,student278@sim-univ-china.example.org,China,International,Postgraduate (Masters),Organic Search,2025-11-26
+STU-1279,Student_279,student279@sim-univ-india.example.org,India,International,Postgraduate (Masters),Unattributed / Direct,2026-07-24
+STU-1280,Student_280,student280@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Paid Social (Meta/IG),2026-05-03
+STU-1281,Student_281,student281@sim-univ-china.example.org,China,International,Undergraduate,Organic Search,2026-05-19
+STU-1282,Student_282,student282@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Organic Search,2026-03-11
+STU-1283,Student_283,student283@sim-univ-india.example.org,India,International,Exchange / Foundation,University Partner Referral,2026-01-13
+STU-1284,Student_284,student284@sim-univ-malaysia.example.org,Malaysia,International,Postgraduate (Masters),Paid Social (Meta/IG),2026-08-11
+STU-1285,Student_285,student285@sim-univ-china.example.org,China,International,Postgraduate (Masters),Organic Search,2026-05-06
+STU-1286,Student_286,student286@sim-univ-malaysia.example.org,Malaysia,International,Exchange / Foundation,Organic Search,2026-04-01
+STU-1287,Student_287,student287@sim-univ-germany.example.org,Germany,International,Postgraduate (Masters),Direct / Repeat,2025-12-27
+STU-1288,Student_288,student288@sim-univ-india.example.org,India,International,Postgraduate (Masters),Student Ambassador,2026-06-09
+STU-1289,Student_289,student289@sim-univ-france.example.org,France,International,Undergraduate,University Partner Referral,2026-03-28
+STU-1290,Student_290,student290@sim-univ-india.example.org,India,International,Exchange / Foundation,Organic Search,2026-03-20
+STU-1291,Student_291,student291@sim-univ-malaysia.example.org,Malaysia,International,Postgraduate (Masters),Student Ambassador,2025-12-21
+STU-1292,Student_292,student292@sim-univ-usa.example.org,USA,International,Exchange / Foundation,Student Ambassador,2026-05-03
+STU-1293,Student_293,student293@sim-univ-nigeria.example.org,Nigeria,International,Undergraduate,University Partner Referral,2025-10-20
+STU-1294,Student_294,student294@sim-univ-malaysia.example.org,Malaysia,International,Undergraduate,University Partner Referral,2026-08-03
+STU-1295,Student_295,student295@sim-univ-china.example.org,China,International,Postgraduate (Masters),Organic Search,2026-01-29
+STU-1296,Student_296,student296@sim-univ-nigeria.example.org,Nigeria,International,Postgraduate (Masters),Direct / Repeat,2025-10-04
+STU-1297,Student_297,student297@sim-univ-india.example.org,India,International,Postgraduate (Masters),Direct / Repeat,2025-09-14
+STU-1298,Student_298,student298@sim-univ-china.example.org,China,International,Exchange / Foundation,Direct / Repeat,2026-04-08
+STU-1299,Student_299,student299@sim-univ-india.example.org,India,International,Postgraduate (Masters),Organic Search,2025-09-20
+STU-1300,Student_300,student300@sim-univ-france.example.org,France,International,Undergraduate,Paid Social (Meta/IG),2026-03-17
+STU-1301,Student_301,student301@sim-univ-uk.example.org,UK,Domestic,PhD / Research,Direct / Repeat,2026-07-10
+STU-1302,Student_302,student302@sim-univ-india.example.org,India,International,Postgraduate (Masters),University Partner Referral,2026-07-29
+STU-1303,Student_303,student303@sim-univ-nigeria.example.org,Nigeria,International,Undergraduate,Organic Search,2026-01-26
+STU-1304,Student_304,student304@sim-univ-uk.example.org,UK,Domestic,Undergraduate,University Partner Referral,2026-06-27
+STU-1305,Student_305,student305@sim-univ-india.example.org,India,International,Exchange / Foundation,Organic Search,2026-06-09
+STU-1306,Student_306,student306@sim-univ-china.example.org,China,International,Undergraduate,University Partner Referral,2025-12-17
+STU-1307,Student_307,student307@sim-univ-china.example.org,China,International,Postgraduate (Masters),University Partner Referral,2026-09-23
+STU-1308,Student_308,student308@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Unattributed / Direct,2026-04-22
+STU-1309,Student_309,student309@sim-univ-china.example.org,China,International,PhD / Research,University Partner Referral,2026-09-18
+STU-1310,Student_310,student310@sim-univ-usa.example.org,USA,International,Undergraduate,Student Ambassador,2026-02-25
+STU-1311,Student_311,student311@sim-univ-usa.example.org,USA,International,Undergraduate,University Partner Referral,2026-05-07
+STU-1312,Student_312,student312@sim-univ-uk.example.org,UK,Domestic,Exchange / Foundation,University Partner Referral,2026-05-04
+STU-1313,Student_313,student313@sim-univ-china.example.org,China,International,Undergraduate,University Partner Referral,2026-07-14
+STU-1314,Student_314,student314@sim-univ-nigeria.example.org,Nigeria,International,Postgraduate (Masters),Organic Search,2025-10-15
+STU-1315,Student_315,student315@sim-univ-germany.example.org,Germany,International,Postgraduate (Masters),Organic Search,2026-06-19
+STU-1316,Student_316,student316@sim-univ-india.example.org,India,International,Postgraduate (Masters),Organic Search,2025-11-13
+STU-1317,Student_317,student317@sim-univ-nigeria.example.org,Nigeria,International,Undergraduate,Organic Search,2026-08-11
+STU-1318,Student_318,student318@sim-univ-china.example.org,China,International,Postgraduate (Masters),Organic Search,2026-01-28
+STU-1319,Student_319,student319@sim-univ-uk.example.org,UK,Domestic,Undergraduate,Organic Search,2025-10-20
+STU-1320,Student_320,student320@sim-univ-nigeria.example.org,Nigeria,International,Undergraduate,Student Ambassador,2026-02-19
+STU-1321,Student_321,student321@sim-univ-india.example.org,India,International,Postgraduate (Masters),Organic Search,2026-07-18
+STU-1322,Student_322,student322@sim-univ-china.example.org,China,International,Postgraduate (Masters),Paid Social (Meta/IG),2025-11-11
+STU-1323,Student_323,student323@sim-univ-india.example.org,India,International,Postgraduate (Masters),Organic Search,2025-12-16
+STU-1324,Student_324,student324@sim-univ-india.example.org,India,International,Undergraduate,Direct / Repeat,2026-05-04
+STU-1325,Student_325,student325@sim-univ-germany.example.org,Germany,International,Exchange / Foundation,Paid Social (Meta/IG),2026-05-09
+STU-1326,Student_326,student326@sim-univ-germany.example.org,Germany,International,Undergraduate,University Partner Referral,2026-06-05
+STU-1327,Student_327,student327@sim-univ-china.example.org,China,International,Undergraduate,University Partner Referral,2025-09-07
+STU-1328,Student_328,student328@sim-univ-uk.example.org,UK,Domestic,Undergraduate,Organic Search,2025-11-16
+STU-1329,Student_329,student329@sim-univ-usa.example.org,USA,International,Exchange / Foundation,Student Ambassador,2026-07-07
+STU-1330,Student_330,student330@sim-univ-china.example.org,China,International,Postgraduate (Masters),Organic Search,2026-05-04
+STU-1331,Student_331,student331@sim-univ-china.example.org,China,International,Undergraduate,Organic Search,2026-09-02
+STU-1332,Student_332,student332@sim-univ-india.example.org,India,International,Postgraduate (Masters),Direct / Repeat,2025-09-24
+STU-1333,Student_333,student333@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Organic Search,2026-07-23
+STU-1334,Student_334,student334@sim-univ-india.example.org,India,International,PhD / Research,Organic Search,2026-09-25
+STU-1335,Student_335,student335@sim-univ-india.example.org,India,International,Postgraduate (Masters),Direct / Repeat,2026-07-15
+STU-1336,Student_336,student336@sim-univ-china.example.org,China,International,Postgraduate (Masters),Organic Search,2026-04-26
+STU-1337,Student_337,student337@sim-univ-china.example.org,China,International,Undergraduate,Unattributed / Direct,2026-06-29
+STU-1338,Student_338,student338@sim-univ-uk.example.org,UK,Domestic,Exchange / Foundation,Organic Search,2026-08-17
+STU-1339,Student_339,student339@sim-univ-usa.example.org,USA,International,Postgraduate (Masters),University Partner Referral,2026-03-22
+STU-1340,Student_340,student340@sim-univ-china.example.org,China,International,Postgraduate (Masters),Organic Search,2026-02-17
+STU-1341,Student_341,student341@sim-univ-germany.example.org,Germany,International,Undergraduate,Paid Social (Meta/IG),2026-03-06
+STU-1342,Student_342,student342@sim-univ-china.example.org,China,International,Postgraduate (Masters),Direct / Repeat,2026-09-23
+STU-1343,Student_343,student343@sim-univ-nigeria.example.org,Nigeria,International,Postgraduate (Masters),University Partner Referral,2026-06-12
+STU-1344,Student_344,student344@sim-univ-india.example.org,India,International,Postgraduate (Masters),Organic Search,2025-11-22
+STU-1345,Student_345,student345@sim-univ-usa.example.org,USA,International,Postgraduate (Masters),Organic Search,2026-08-20
+STU-1346,Student_346,student346@sim-univ-india.example.org,India,International,Exchange / Foundation,University Partner Referral,2026-02-05
+STU-1347,Student_347,student347@sim-univ-china.example.org,China,International,Postgraduate (Masters),Organic Search,2026-07-28
+STU-1348,Student_348,student348@sim-univ-nigeria.example.org,Nigeria,International,Postgraduate (Masters),Direct / Repeat,2025-12-06
+STU-1349,Student_349,student349@sim-univ-india.example.org,India,International,Postgraduate (Masters),Student Ambassador,2026-07-28
+STU-1350,Student_350,student350@sim-univ-uk.example.org,UK,Domestic,Undergraduate,Organic Search,2025-11-02
+STU-1351,Student_351,student351@sim-univ-nigeria.example.org,Nigeria,International,Postgraduate (Masters),Student Ambassador,2026-09-02
+STU-1352,Student_352,student352@sim-univ-nigeria.example.org,Nigeria,International,Undergraduate,Paid Social (Meta/IG),2026-02-13
+STU-1353,Student_353,student353@sim-univ-india.example.org,India,International,Undergraduate,University Partner Referral,2025-10-16
+STU-1354,Student_354,student354@sim-univ-china.example.org,China,International,Undergraduate,Direct / Repeat,2026-06-29
+STU-1355,Student_355,student355@sim-univ-uk.example.org,UK,Domestic,Undergraduate,Organic Search,2026-06-15
+STU-1356,Student_356,student356@sim-univ-malaysia.example.org,Malaysia,International,Undergraduate,Direct / Repeat,2026-01-31
+STU-1357,Student_357,student357@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Direct / Repeat,2026-01-16
+STU-1358,Student_358,student358@sim-univ-china.example.org,China,International,PhD / Research,Organic Search,2026-04-23
+STU-1359,Student_359,student359@sim-univ-malaysia.example.org,Malaysia,International,PhD / Research,Organic Search,2026-01-28
+STU-1360,Student_360,student360@sim-univ-china.example.org,China,International,Undergraduate,Paid Social (Meta/IG),2026-09-05
+STU-1361,Student_361,student361@sim-univ-india.example.org,India,International,Undergraduate,University Partner Referral,2025-09-10
+STU-1362,Student_362,student362@sim-univ-india.example.org,India,International,Postgraduate (Masters),Unattributed / Direct,2026-07-26
+STU-1363,Student_363,student363@sim-univ-france.example.org,France,International,Postgraduate (Masters),Paid Social (Meta/IG),2026-02-02
+STU-1364,Student_364,student364@sim-univ-germany.example.org,Germany,International,Undergraduate,Student Ambassador,2026-04-02
+STU-1365,Student_365,student365@sim-univ-nigeria.example.org,Nigeria,International,Postgraduate (Masters),Unattributed / Direct,2026-03-27
+STU-1366,Student_366,student366@sim-univ-france.example.org,France,International,Undergraduate,Paid Social (Meta/IG),2026-08-28
+STU-1367,Student_367,student367@sim-univ-china.example.org,China,International,Postgraduate (Masters),Paid Social (Meta/IG),2026-03-27
+STU-1368,Student_368,student368@sim-univ-germany.example.org,Germany,International,Undergraduate,University Partner Referral,2025-10-21
+STU-1369,Student_369,student369@sim-univ-malaysia.example.org,Malaysia,International,PhD / Research,Direct / Repeat,2025-10-26
+STU-1370,Student_370,student370@sim-univ-india.example.org,India,International,Postgraduate (Masters),Organic Search,2026-01-27
+STU-1371,Student_371,student371@sim-univ-malaysia.example.org,Malaysia,International,Postgraduate (Masters),Organic Search,2025-09-28
+STU-1372,Student_372,student372@sim-univ-uk.example.org,UK,Domestic,Undergraduate,Paid Social (Meta/IG),2025-12-29
+STU-1373,Student_373,student373@sim-univ-uk.example.org,UK,Domestic,Undergraduate,University Partner Referral,2026-05-08
+STU-1374,Student_374,student374@sim-univ-china.example.org,China,International,Postgraduate (Masters),Student Ambassador,2026-02-12
+STU-1375,Student_375,student375@sim-univ-india.example.org,India,International,PhD / Research,University Partner Referral,2025-10-30
+STU-1376,Student_376,student376@sim-univ-usa.example.org,USA,International,Postgraduate (Masters),Paid Social (Meta/IG),2026-06-21
+STU-1377,Student_377,student377@sim-univ-uk.example.org,UK,Domestic,PhD / Research,Organic Search,2025-11-24
+STU-1378,Student_378,student378@sim-univ-india.example.org,India,International,Undergraduate,Paid Social (Meta/IG),2025-10-31
+STU-1379,Student_379,student379@sim-univ-india.example.org,India,International,Undergraduate,Paid Social (Meta/IG),2026-05-02
+STU-1380,Student_380,student380@sim-univ-india.example.org,India,International,Postgraduate (Masters),University Partner Referral,2026-09-24
+STU-1381,Student_381,student381@sim-univ-china.example.org,China,International,Undergraduate,Organic Search,2025-11-26
+STU-1382,Student_382,student382@sim-univ-uk.example.org,UK,Domestic,Undergraduate,University Partner Referral,2025-10-03
+STU-1383,Student_383,student383@sim-univ-france.example.org,France,International,Undergraduate,University Partner Referral,2026-04-30
+STU-1384,Student_384,student384@sim-univ-nigeria.example.org,Nigeria,International,Postgraduate (Masters),University Partner Referral,2026-03-20
+STU-1385,Student_385,student385@sim-univ-china.example.org,China,International,Postgraduate (Masters),Direct / Repeat,2026-08-26
+STU-1386,Student_386,student386@sim-univ-india.example.org,India,International,Postgraduate (Masters),Unattributed / Direct,2026-05-11
+STU-1387,Student_387,student387@sim-univ-nigeria.example.org,Nigeria,International,Undergraduate,Organic Search,2026-02-16
+STU-1388,Student_388,student388@sim-univ-india.example.org,India,International,Exchange / Foundation,Organic Search,2025-11-16
+STU-1389,Student_389,student389@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Paid Social (Meta/IG),2026-01-06
+STU-1390,Student_390,student390@sim-univ-germany.example.org,Germany,International,Undergraduate,Paid Social (Meta/IG),2026-01-19
+STU-1391,Student_391,student391@sim-univ-india.example.org,India,International,Postgraduate (Masters),Organic Search,2026-09-25
+STU-1392,Student_392,student392@sim-univ-uk.example.org,UK,Domestic,Exchange / Foundation,Direct / Repeat,2026-01-11
+STU-1393,Student_393,student393@sim-univ-usa.example.org,USA,International,Exchange / Foundation,Organic Search,2026-05-08
+STU-1394,Student_394,student394@sim-univ-usa.example.org,USA,International,Postgraduate (Masters),University Partner Referral,2026-02-23
+STU-1395,Student_395,student395@sim-univ-germany.example.org,Germany,International,Undergraduate,Organic Search,2026-09-20
+STU-1396,Student_396,student396@sim-univ-uk.example.org,UK,Domestic,Undergraduate,University Partner Referral,2026-02-08
+STU-1397,Student_397,student397@sim-univ-nigeria.example.org,Nigeria,International,Postgraduate (Masters),University Partner Referral,2026-02-07
+STU-1398,Student_398,student398@sim-univ-india.example.org,India,International,PhD / Research,University Partner Referral,2025-10-11
+STU-1399,Student_399,student399@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Organic Search,2026-06-24
+STU-1400,Student_400,student400@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Unattributed / Direct,2026-08-27
+STU-1401,Student_401,student401@sim-univ-india.example.org,India,International,PhD / Research,Organic Search,2026-04-15
+STU-1402,Student_402,student402@sim-univ-china.example.org,China,International,Postgraduate (Masters),Organic Search,2026-05-03
+STU-1403,Student_403,student403@sim-univ-india.example.org,India,International,Postgraduate (Masters),Direct / Repeat,2026-08-15
+STU-1404,Student_404,student404@sim-univ-india.example.org,India,International,Postgraduate (Masters),Paid Social (Meta/IG),2025-11-16
+STU-1405,Student_405,student405@sim-univ-france.example.org,France,International,Undergraduate,Organic Search,2026-04-22
+STU-1406,Student_406,student406@sim-univ-china.example.org,China,International,Postgraduate (Masters),Organic Search,2026-03-07
+STU-1407,Student_407,student407@sim-univ-india.example.org,India,International,Postgraduate (Masters),Paid Social (Meta/IG),2026-06-05
+STU-1408,Student_408,student408@sim-univ-nigeria.example.org,Nigeria,International,Undergraduate,Paid Social (Meta/IG),2026-08-04
+STU-1409,Student_409,student409@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Organic Search,2026-03-05
+STU-1410,Student_410,student410@sim-univ-china.example.org,China,International,Postgraduate (Masters),Organic Search,2026-04-10
+STU-1411,Student_411,student411@sim-univ-india.example.org,India,International,PhD / Research,Organic Search,2026-08-28
+STU-1412,Student_412,student412@sim-univ-france.example.org,France,International,Postgraduate (Masters),Paid Social (Meta/IG),2025-11-16
+STU-1413,Student_413,student413@sim-univ-malaysia.example.org,Malaysia,International,Undergraduate,Organic Search,2026-08-20
+STU-1414,Student_414,student414@sim-univ-uk.example.org,UK,Domestic,Undergraduate,University Partner Referral,2026-03-15
+STU-1415,Student_415,student415@sim-univ-nigeria.example.org,Nigeria,International,Postgraduate (Masters),Paid Social (Meta/IG),2025-10-30
+STU-1416,Student_416,student416@sim-univ-china.example.org,China,International,Undergraduate,Organic Search,2025-10-21
+STU-1417,Student_417,student417@sim-univ-china.example.org,China,International,Postgraduate (Masters),Organic Search,2026-06-13
+STU-1418,Student_418,student418@sim-univ-france.example.org,France,International,Undergraduate,Organic Search,2026-05-15
+STU-1419,Student_419,student419@sim-univ-usa.example.org,USA,International,Postgraduate (Masters),Paid Social (Meta/IG),2026-01-26
+STU-1420,Student_420,student420@sim-univ-india.example.org,India,International,Undergraduate,Direct / Repeat,2026-02-23
+STU-1421,Student_421,student421@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Organic Search,2025-10-05
+STU-1422,Student_422,student422@sim-univ-nigeria.example.org,Nigeria,International,Postgraduate (Masters),University Partner Referral,2026-06-13
+STU-1423,Student_423,student423@sim-univ-usa.example.org,USA,International,Postgraduate (Masters),Direct / Repeat,2026-03-22
+STU-1424,Student_424,student424@sim-univ-india.example.org,India,International,PhD / Research,University Partner Referral,2025-12-15
+STU-1425,Student_425,student425@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Organic Search,2025-10-30
+STU-1426,Student_426,student426@sim-univ-china.example.org,China,International,Postgraduate (Masters),University Partner Referral,2026-02-14
+STU-1427,Student_427,student427@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Paid Social (Meta/IG),2025-09-13
+STU-1428,Student_428,student428@sim-univ-india.example.org,India,International,Postgraduate (Masters),University Partner Referral,2026-06-26
+STU-1429,Student_429,student429@sim-univ-china.example.org,China,International,Undergraduate,Unattributed / Direct,2026-07-14
+STU-1430,Student_430,student430@sim-univ-china.example.org,China,International,Postgraduate (Masters),University Partner Referral,2025-10-08
+STU-1431,Student_431,student431@sim-univ-france.example.org,France,International,Postgraduate (Masters),Paid Social (Meta/IG),2026-07-03
+STU-1432,Student_432,student432@sim-univ-india.example.org,India,International,Undergraduate,Paid Social (Meta/IG),2026-09-19
+STU-1433,Student_433,student433@sim-univ-india.example.org,India,International,Postgraduate (Masters),University Partner Referral,2026-09-18
+STU-1434,Student_434,student434@sim-univ-china.example.org,China,International,Exchange / Foundation,Organic Search,2025-10-11
+STU-1435,Student_435,student435@sim-univ-china.example.org,China,International,Postgraduate (Masters),Direct / Repeat,2026-07-26
+STU-1436,Student_436,student436@sim-univ-india.example.org,India,International,Postgraduate (Masters),Direct / Repeat,2026-07-05
+STU-1437,Student_437,student437@sim-univ-india.example.org,India,International,Postgraduate (Masters),Direct / Repeat,2026-03-16
+STU-1438,Student_438,student438@sim-univ-malaysia.example.org,Malaysia,International,Postgraduate (Masters),University Partner Referral,2025-11-03
+STU-1439,Student_439,student439@sim-univ-india.example.org,India,International,PhD / Research,University Partner Referral,2026-02-22
+STU-1440,Student_440,student440@sim-univ-malaysia.example.org,Malaysia,International,Postgraduate (Masters),Unattributed / Direct,2026-02-05
+STU-1441,Student_441,student441@sim-univ-india.example.org,India,International,Undergraduate,Organic Search,2026-01-31
+STU-1442,Student_442,student442@sim-univ-india.example.org,India,International,Postgraduate (Masters),University Partner Referral,2026-02-27
+STU-1443,Student_443,student443@sim-univ-china.example.org,China,International,PhD / Research,Paid Social (Meta/IG),2026-03-01
+STU-1444,Student_444,student444@sim-univ-germany.example.org,Germany,International,Postgraduate (Masters),Organic Search,2026-04-04
+STU-1445,Student_445,student445@sim-univ-india.example.org,India,International,Undergraduate,Organic Search,2025-10-19
+STU-1446,Student_446,student446@sim-univ-france.example.org,France,International,Undergraduate,Paid Social (Meta/IG),2026-05-26
+STU-1447,Student_447,student447@sim-univ-china.example.org,China,International,Postgraduate (Masters),University Partner Referral,2026-09-23
+STU-1448,Student_448,student448@sim-univ-india.example.org,India,International,Undergraduate,Organic Search,2026-04-25
+STU-1449,Student_449,student449@sim-univ-india.example.org,India,International,Postgraduate (Masters),Organic Search,2025-12-13
+STU-1450,Student_450,student450@sim-univ-india.example.org,India,International,Postgraduate (Masters),Organic Search,2026-02-11
+STU-1451,Student_451,student451@sim-univ-china.example.org,China,International,Postgraduate (Masters),Unattributed / Direct,2026-01-29
+STU-1452,Student_452,student452@sim-univ-india.example.org,India,International,Undergraduate,Direct / Repeat,2025-09-18
+STU-1453,Student_453,student453@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Student Ambassador,2026-03-16
+STU-1454,Student_454,student454@sim-univ-usa.example.org,USA,International,PhD / Research,University Partner Referral,2026-06-06
+STU-1455,Student_455,student455@sim-univ-china.example.org,China,International,PhD / Research,Organic Search,2026-07-12
+STU-1456,Student_456,student456@sim-univ-nigeria.example.org,Nigeria,International,Postgraduate (Masters),Unattributed / Direct,2026-05-19
+STU-1457,Student_457,student457@sim-univ-nigeria.example.org,Nigeria,International,Undergraduate,Student Ambassador,2026-06-28
+STU-1458,Student_458,student458@sim-univ-india.example.org,India,International,Postgraduate (Masters),Organic Search,2026-02-28
+STU-1459,Student_459,student459@sim-univ-china.example.org,China,International,Postgraduate (Masters),Student Ambassador,2025-12-13
+STU-1460,Student_460,student460@sim-univ-germany.example.org,Germany,International,Postgraduate (Masters),University Partner Referral,2025-09-21
+STU-1461,Student_461,student461@sim-univ-india.example.org,India,International,Undergraduate,Organic Search,2026-02-10
+STU-1462,Student_462,student462@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Student Ambassador,2026-05-20
+STU-1463,Student_463,student463@sim-univ-nigeria.example.org,Nigeria,International,Exchange / Foundation,Student Ambassador,2026-09-14
+STU-1464,Student_464,student464@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Student Ambassador,2026-01-02
+STU-1465,Student_465,student465@sim-univ-france.example.org,France,International,Postgraduate (Masters),University Partner Referral,2025-12-12
+STU-1466,Student_466,student466@sim-univ-india.example.org,India,International,Undergraduate,Student Ambassador,2026-03-18
+STU-1467,Student_467,student467@sim-univ-india.example.org,India,International,Undergraduate,Organic Search,2026-03-19
+STU-1468,Student_468,student468@sim-univ-germany.example.org,Germany,International,Postgraduate (Masters),University Partner Referral,2026-01-09
+STU-1469,Student_469,student469@sim-univ-china.example.org,China,International,Postgraduate (Masters),Organic Search,2026-06-08
+STU-1470,Student_470,student470@sim-univ-china.example.org,China,International,PhD / Research,University Partner Referral,2026-08-26
+STU-1471,Student_471,student471@sim-univ-india.example.org,India,International,PhD / Research,Direct / Repeat,2025-10-05
+STU-1472,Student_472,student472@sim-univ-china.example.org,China,International,Postgraduate (Masters),University Partner Referral,2026-04-03
+STU-1473,Student_473,student473@sim-univ-india.example.org,India,International,Undergraduate,Unattributed / Direct,2026-08-17
+STU-1474,Student_474,student474@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Paid Social (Meta/IG),2026-07-09
+STU-1475,Student_475,student475@sim-univ-nigeria.example.org,Nigeria,International,PhD / Research,Organic Search,2026-09-06
+STU-1476,Student_476,student476@sim-univ-china.example.org,China,International,Undergraduate,Organic Search,2026-03-02
+STU-1477,Student_477,student477@sim-univ-india.example.org,India,International,Postgraduate (Masters),Organic Search,2026-01-22
+STU-1478,Student_478,student478@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),University Partner Referral,2026-09-25
+STU-1479,Student_479,student479@sim-univ-china.example.org,China,International,Undergraduate,Direct / Repeat,2026-06-29
+STU-1480,Student_480,student480@sim-univ-germany.example.org,Germany,International,Undergraduate,Organic Search,2026-09-22
+STU-1481,Student_481,student481@sim-univ-malaysia.example.org,Malaysia,International,Postgraduate (Masters),Organic Search,2026-05-31
+STU-1482,Student_482,student482@sim-univ-india.example.org,India,International,Undergraduate,University Partner Referral,2026-07-23
+STU-1483,Student_483,student483@sim-univ-uk.example.org,UK,Domestic,Undergraduate,Paid Social (Meta/IG),2026-08-06
+STU-1484,Student_484,student484@sim-univ-germany.example.org,Germany,International,Postgraduate (Masters),University Partner Referral,2025-10-31
+STU-1485,Student_485,student485@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Organic Search,2026-08-02
+STU-1486,Student_486,student486@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Organic Search,2026-06-05
+STU-1487,Student_487,student487@sim-univ-india.example.org,India,International,Postgraduate (Masters),Direct / Repeat,2026-06-26
+STU-1488,Student_488,student488@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Unattributed / Direct,2025-09-29
+STU-1489,Student_489,student489@sim-univ-india.example.org,India,International,Postgraduate (Masters),Paid Social (Meta/IG),2026-06-12
+STU-1490,Student_490,student490@sim-univ-nigeria.example.org,Nigeria,International,Postgraduate (Masters),University Partner Referral,2025-10-07
+STU-1491,Student_491,student491@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Paid Social (Meta/IG),2026-01-05
+STU-1492,Student_492,student492@sim-univ-malaysia.example.org,Malaysia,International,Postgraduate (Masters),University Partner Referral,2026-06-25
+STU-1493,Student_493,student493@sim-univ-india.example.org,India,International,Postgraduate (Masters),Paid Social (Meta/IG),2026-01-16
+STU-1494,Student_494,student494@sim-univ-france.example.org,France,International,Postgraduate (Masters),Organic Search,2026-06-18
+STU-1495,Student_495,student495@sim-univ-india.example.org,India,International,Exchange / Foundation,Organic Search,2025-10-02
+STU-1496,Student_496,student496@sim-univ-uk.example.org,UK,Domestic,Undergraduate,Paid Social (Meta/IG),2025-12-31
+STU-1497,Student_497,student497@sim-univ-india.example.org,India,International,Postgraduate (Masters),Paid Social (Meta/IG),2026-07-20
+STU-1498,Student_498,student498@sim-univ-china.example.org,China,International,Undergraduate,Organic Search,2026-05-31
+STU-1499,Student_499,student499@sim-univ-nigeria.example.org,Nigeria,International,Postgraduate (Masters),Paid Social (Meta/IG),2025-09-27
+STU-1500,Student_500,student500@sim-univ-germany.example.org,Germany,International,Undergraduate,Unattributed / Direct,2026-08-13
+STU-1501,Student_501,student501@sim-univ-usa.example.org,USA,International,Postgraduate (Masters),University Partner Referral,2025-09-22
+STU-1502,Student_502,student502@sim-univ-nigeria.example.org,Nigeria,International,Undergraduate,University Partner Referral,2026-02-04
+STU-1503,Student_503,student503@sim-univ-usa.example.org,USA,International,Postgraduate (Masters),University Partner Referral,2025-10-29
+STU-1504,Student_504,student504@sim-univ-uk.example.org,UK,Domestic,Undergraduate,Organic Search,2025-09-24
+STU-1505,Student_505,student505@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),University Partner Referral,2026-01-21
+STU-1506,Student_506,student506@sim-univ-india.example.org,India,International,Postgraduate (Masters),Organic Search,2025-11-22
+STU-1507,Student_507,student507@sim-univ-india.example.org,India,International,Undergraduate,Student Ambassador,2026-04-23
+STU-1508,Student_508,student508@sim-univ-india.example.org,India,International,Postgraduate (Masters),Organic Search,2025-11-09
+STU-1509,Student_509,student509@sim-univ-india.example.org,India,International,Undergraduate,Organic Search,2026-09-21
+STU-1510,Student_510,student510@sim-univ-nigeria.example.org,Nigeria,International,Postgraduate (Masters),Organic Search,2025-11-16
+STU-1511,Student_511,student511@sim-univ-india.example.org,India,International,Postgraduate (Masters),Organic Search,2026-09-22
+STU-1512,Student_512,student512@sim-univ-uk.example.org,UK,Domestic,Undergraduate,Paid Social (Meta/IG),2026-01-31
+STU-1513,Student_513,student513@sim-univ-india.example.org,India,International,Undergraduate,Organic Search,2026-07-12
+STU-1514,Student_514,student514@sim-univ-france.example.org,France,International,Undergraduate,Direct / Repeat,2025-11-16
+STU-1515,Student_515,student515@sim-univ-china.example.org,China,International,Postgraduate (Masters),Organic Search,2026-03-29
+STU-1516,Student_516,student516@sim-univ-india.example.org,India,International,Exchange / Foundation,Organic Search,2026-06-20
+STU-1517,Student_517,student517@sim-univ-india.example.org,India,International,PhD / Research,Paid Social (Meta/IG),2026-06-26
+STU-1518,Student_518,student518@sim-univ-uk.example.org,UK,Domestic,Undergraduate,Paid Social (Meta/IG),2026-08-14
+STU-1519,Student_519,student519@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Paid Social (Meta/IG),2026-06-08
+STU-1520,Student_520,student520@sim-univ-uk.example.org,UK,Domestic,Undergraduate,University Partner Referral,2026-01-27
+STU-1521,Student_521,student521@sim-univ-india.example.org,India,International,Postgraduate (Masters),University Partner Referral,2026-09-25
+STU-1522,Student_522,student522@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),University Partner Referral,2026-06-23
+STU-1523,Student_523,student523@sim-univ-uk.example.org,UK,Domestic,Undergraduate,Paid Social (Meta/IG),2026-04-17
+STU-1524,Student_524,student524@sim-univ-uk.example.org,UK,Domestic,Undergraduate,Paid Social (Meta/IG),2025-10-11
+STU-1525,Student_525,student525@sim-univ-uk.example.org,UK,Domestic,PhD / Research,Paid Social (Meta/IG),2025-12-16
+STU-1526,Student_526,student526@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Paid Social (Meta/IG),2026-01-27
+STU-1527,Student_527,student527@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),University Partner Referral,2026-04-20
+STU-1528,Student_528,student528@sim-univ-nigeria.example.org,Nigeria,International,Undergraduate,Unattributed / Direct,2026-07-03
+STU-1529,Student_529,student529@sim-univ-india.example.org,India,International,Postgraduate (Masters),Direct / Repeat,2025-10-26
+STU-1530,Student_530,student530@sim-univ-india.example.org,India,International,Postgraduate (Masters),University Partner Referral,2026-07-31
+STU-1531,Student_531,student531@sim-univ-nigeria.example.org,Nigeria,International,Undergraduate,Organic Search,2026-01-28
+STU-1532,Student_532,student532@sim-univ-france.example.org,France,International,Postgraduate (Masters),Organic Search,2026-08-30
+STU-1533,Student_533,student533@sim-univ-uk.example.org,UK,Domestic,Undergraduate,Organic Search,2026-08-11
+STU-1534,Student_534,student534@sim-univ-china.example.org,China,International,Postgraduate (Masters),Paid Social (Meta/IG),2026-03-13
+STU-1535,Student_535,student535@sim-univ-india.example.org,India,International,Postgraduate (Masters),Direct / Repeat,2026-07-21
+STU-1536,Student_536,student536@sim-univ-uk.example.org,UK,Domestic,Undergraduate,University Partner Referral,2026-08-07
+STU-1537,Student_537,student537@sim-univ-india.example.org,India,International,Postgraduate (Masters),Student Ambassador,2025-10-17
+STU-1538,Student_538,student538@sim-univ-india.example.org,India,International,Undergraduate,Organic Search,2026-02-03
+STU-1539,Student_539,student539@sim-univ-china.example.org,China,International,Undergraduate,Direct / Repeat,2026-04-08
+STU-1540,Student_540,student540@sim-univ-france.example.org,France,International,PhD / Research,Student Ambassador,2026-03-29
+STU-1541,Student_541,student541@sim-univ-uk.example.org,UK,Domestic,Undergraduate,Organic Search,2026-04-30
+STU-1542,Student_542,student542@sim-univ-uk.example.org,UK,Domestic,Undergraduate,Unattributed / Direct,2026-07-12
+STU-1543,Student_543,student543@sim-univ-china.example.org,China,International,Postgraduate (Masters),University Partner Referral,2026-03-18
+STU-1544,Student_544,student544@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Direct / Repeat,2026-04-29
+STU-1545,Student_545,student545@sim-univ-india.example.org,India,International,Undergraduate,University Partner Referral,2026-01-03
+STU-1546,Student_546,student546@sim-univ-france.example.org,France,International,Postgraduate (Masters),Unattributed / Direct,2025-12-02
+STU-1547,Student_547,student547@sim-univ-china.example.org,China,International,Postgraduate (Masters),Paid Social (Meta/IG),2025-12-12
+STU-1548,Student_548,student548@sim-univ-nigeria.example.org,Nigeria,International,Undergraduate,Paid Social (Meta/IG),2026-03-05
+STU-1549,Student_549,student549@sim-univ-india.example.org,India,International,Undergraduate,Unattributed / Direct,2025-09-17
+STU-1550,Student_550,student550@sim-univ-uk.example.org,UK,Domestic,Undergraduate,Student Ambassador,2025-11-01
+STU-1551,Student_551,student551@sim-univ-uk.example.org,UK,Domestic,PhD / Research,Organic Search,2026-04-30
+STU-1552,Student_552,student552@sim-univ-india.example.org,India,International,Undergraduate,Organic Search,2026-01-16
+STU-1553,Student_553,student553@sim-univ-china.example.org,China,International,Postgraduate (Masters),Organic Search,2025-09-02
+STU-1554,Student_554,student554@sim-univ-china.example.org,China,International,Undergraduate,Student Ambassador,2026-08-03
+STU-1555,Student_555,student555@sim-univ-india.example.org,India,International,PhD / Research,Organic Search,2025-10-19
+STU-1556,Student_556,student556@sim-univ-france.example.org,France,International,Exchange / Foundation,University Partner Referral,2026-03-23
+STU-1557,Student_557,student557@sim-univ-nigeria.example.org,Nigeria,International,Postgraduate (Masters),Organic Search,2026-02-26
+STU-1558,Student_558,student558@sim-univ-india.example.org,India,International,Undergraduate,University Partner Referral,2026-08-26
+STU-1559,Student_559,student559@sim-univ-china.example.org,China,International,Undergraduate,Organic Search,2026-07-17
+STU-1560,Student_560,student560@sim-univ-india.example.org,India,International,PhD / Research,Student Ambassador,2026-01-15
+STU-1561,Student_561,student561@sim-univ-france.example.org,France,International,Postgraduate (Masters),Direct / Repeat,2026-08-09
+STU-1562,Student_562,student562@sim-univ-china.example.org,China,International,Undergraduate,University Partner Referral,2026-05-20
+STU-1563,Student_563,student563@sim-univ-india.example.org,India,International,Undergraduate,Student Ambassador,2025-12-04
+STU-1564,Student_564,student564@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),University Partner Referral,2025-12-07
+STU-1565,Student_565,student565@sim-univ-india.example.org,India,International,Undergraduate,Paid Social (Meta/IG),2026-07-18
+STU-1566,Student_566,student566@sim-univ-germany.example.org,Germany,International,Postgraduate (Masters),Student Ambassador,2026-08-26
+STU-1567,Student_567,student567@sim-univ-uk.example.org,UK,Domestic,PhD / Research,Direct / Repeat,2026-07-09
+STU-1568,Student_568,student568@sim-univ-usa.example.org,USA,International,Undergraduate,University Partner Referral,2025-11-21
+STU-1569,Student_569,student569@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Organic Search,2026-02-01
+STU-1570,Student_570,student570@sim-univ-china.example.org,China,International,Postgraduate (Masters),Organic Search,2026-04-08
+STU-1571,Student_571,student571@sim-univ-germany.example.org,Germany,International,Postgraduate (Masters),Paid Social (Meta/IG),2026-07-12
+STU-1572,Student_572,student572@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),University Partner Referral,2025-12-30
+STU-1573,Student_573,student573@sim-univ-china.example.org,China,International,Postgraduate (Masters),Student Ambassador,2026-04-15
+STU-1574,Student_574,student574@sim-univ-china.example.org,China,International,Undergraduate,Student Ambassador,2025-10-04
+STU-1575,Student_575,student575@sim-univ-india.example.org,India,International,Undergraduate,Organic Search,2026-04-16
+STU-1576,Student_576,student576@sim-univ-india.example.org,India,International,Undergraduate,Direct / Repeat,2025-09-24
+STU-1577,Student_577,student577@sim-univ-malaysia.example.org,Malaysia,International,PhD / Research,Organic Search,2026-08-08
+STU-1578,Student_578,student578@sim-univ-india.example.org,India,International,Postgraduate (Masters),Student Ambassador,2026-05-21
+STU-1579,Student_579,student579@sim-univ-china.example.org,China,International,Undergraduate,Paid Social (Meta/IG),2026-03-27
+STU-1580,Student_580,student580@sim-univ-germany.example.org,Germany,International,Postgraduate (Masters),Organic Search,2026-07-10
+STU-1581,Student_581,student581@sim-univ-india.example.org,India,International,Postgraduate (Masters),Organic Search,2026-09-15
+STU-1582,Student_582,student582@sim-univ-india.example.org,India,International,Undergraduate,Unattributed / Direct,2026-02-12
+STU-1583,Student_583,student583@sim-univ-china.example.org,China,International,Undergraduate,University Partner Referral,2026-04-06
+STU-1584,Student_584,student584@sim-univ-india.example.org,India,International,Undergraduate,Student Ambassador,2025-11-02
+STU-1585,Student_585,student585@sim-univ-germany.example.org,Germany,International,Postgraduate (Masters),Organic Search,2026-02-01
+STU-1586,Student_586,student586@sim-univ-china.example.org,China,International,Postgraduate (Masters),University Partner Referral,2025-09-23
+STU-1587,Student_587,student587@sim-univ-uk.example.org,UK,Domestic,Undergraduate,Organic Search,2026-03-26
+STU-1588,Student_588,student588@sim-univ-india.example.org,India,International,Undergraduate,University Partner Referral,2025-11-09
+STU-1589,Student_589,student589@sim-univ-india.example.org,India,International,Undergraduate,Organic Search,2025-11-20
+STU-1590,Student_590,student590@sim-univ-nigeria.example.org,Nigeria,International,Undergraduate,Organic Search,2026-02-06
+STU-1591,Student_591,student591@sim-univ-germany.example.org,Germany,International,Undergraduate,Paid Social (Meta/IG),2026-07-09
+STU-1592,Student_592,student592@sim-univ-uk.example.org,UK,Domestic,PhD / Research,Organic Search,2025-09-11
+STU-1593,Student_593,student593@sim-univ-france.example.org,France,International,Postgraduate (Masters),Paid Social (Meta/IG),2025-09-29
+STU-1594,Student_594,student594@sim-univ-malaysia.example.org,Malaysia,International,Postgraduate (Masters),Student Ambassador,2025-10-31
+STU-1595,Student_595,student595@sim-univ-nigeria.example.org,Nigeria,International,Postgraduate (Masters),Paid Social (Meta/IG),2025-09-20
+STU-1596,Student_596,student596@sim-univ-india.example.org,India,International,Postgraduate (Masters),Organic Search,2025-10-07
+STU-1597,Student_597,student597@sim-univ-china.example.org,China,International,Postgraduate (Masters),Paid Social (Meta/IG),2026-05-07
+STU-1598,Student_598,student598@sim-univ-uk.example.org,UK,Domestic,Exchange / Foundation,University Partner Referral,2026-06-04
+STU-1599,Student_599,student599@sim-univ-nigeria.example.org,Nigeria,International,Exchange / Foundation,Student Ambassador,2025-09-30
+STU-1600,Student_600,student600@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Paid Social (Meta/IG),2026-01-10
+STU-1601,Student_601,student601@sim-univ-china.example.org,China,International,Postgraduate (Masters),Paid Social (Meta/IG),2026-09-25
+STU-1602,Student_602,student602@sim-univ-india.example.org,India,International,Postgraduate (Masters),Paid Social (Meta/IG),2026-08-19
+STU-1603,Student_603,student603@sim-univ-india.example.org,India,International,PhD / Research,Unattributed / Direct,2025-11-04
+STU-1604,Student_604,student604@sim-univ-india.example.org,India,International,Undergraduate,Organic Search,2025-12-09
+STU-1605,Student_605,student605@sim-univ-france.example.org,France,International,Postgraduate (Masters),Unattributed / Direct,2026-02-17
+STU-1606,Student_606,student606@sim-univ-france.example.org,France,International,Exchange / Foundation,Paid Social (Meta/IG),2025-12-05
+STU-1607,Student_607,student607@sim-univ-usa.example.org,USA,International,Undergraduate,Organic Search,2025-11-25
+STU-1608,Student_608,student608@sim-univ-china.example.org,China,International,Undergraduate,Paid Social (Meta/IG),2026-09-07
+STU-1609,Student_609,student609@sim-univ-india.example.org,India,International,Postgraduate (Masters),Organic Search,2026-05-12
+STU-1610,Student_610,student610@sim-univ-china.example.org,China,International,Postgraduate (Masters),Organic Search,2026-01-23
+STU-1611,Student_611,student611@sim-univ-india.example.org,India,International,Postgraduate (Masters),Paid Social (Meta/IG),2026-04-18
+STU-1612,Student_612,student612@sim-univ-china.example.org,China,International,Postgraduate (Masters),Student Ambassador,2026-03-29
+STU-1613,Student_613,student613@sim-univ-france.example.org,France,International,Undergraduate,University Partner Referral,2026-06-23
+STU-1614,Student_614,student614@sim-univ-china.example.org,China,International,Postgraduate (Masters),University Partner Referral,2026-03-24
+STU-1615,Student_615,student615@sim-univ-china.example.org,China,International,Postgraduate (Masters),University Partner Referral,2025-10-11
+STU-1616,Student_616,student616@sim-univ-france.example.org,France,International,Postgraduate (Masters),Paid Social (Meta/IG),2025-09-07
+STU-1617,Student_617,student617@sim-univ-india.example.org,India,International,Postgraduate (Masters),Organic Search,2025-09-08
+STU-1618,Student_618,student618@sim-univ-china.example.org,China,International,Undergraduate,Organic Search,2025-11-15
+STU-1619,Student_619,student619@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),University Partner Referral,2025-10-07
+STU-1620,Student_620,student620@sim-univ-india.example.org,India,International,Exchange / Foundation,Organic Search,2025-11-15
+STU-1621,Student_621,student621@sim-univ-malaysia.example.org,Malaysia,International,Undergraduate,Paid Social (Meta/IG),2025-10-28
+STU-1622,Student_622,student622@sim-univ-india.example.org,India,International,Exchange / Foundation,Organic Search,2026-04-08
+STU-1623,Student_623,student623@sim-univ-china.example.org,China,International,Exchange / Foundation,Organic Search,2026-02-11
+STU-1624,Student_624,student624@sim-univ-china.example.org,China,International,Undergraduate,Unattributed / Direct,2026-02-06
+STU-1625,Student_625,student625@sim-univ-uk.example.org,UK,Domestic,Undergraduate,Organic Search,2026-08-26
+STU-1626,Student_626,student626@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Organic Search,2025-12-09
+STU-1627,Student_627,student627@sim-univ-india.example.org,India,International,Undergraduate,Unattributed / Direct,2026-07-31
+STU-1628,Student_628,student628@sim-univ-india.example.org,India,International,Undergraduate,Organic Search,2025-12-09
+STU-1629,Student_629,student629@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Paid Social (Meta/IG),2026-05-25
+STU-1630,Student_630,student630@sim-univ-india.example.org,India,International,Undergraduate,Student Ambassador,2026-07-04
+STU-1631,Student_631,student631@sim-univ-china.example.org,China,International,Postgraduate (Masters),Unattributed / Direct,2026-03-03
+STU-1632,Student_632,student632@sim-univ-malaysia.example.org,Malaysia,International,Postgraduate (Masters),Student Ambassador,2026-05-17
+STU-1633,Student_633,student633@sim-univ-china.example.org,China,International,Postgraduate (Masters),Student Ambassador,2025-12-20
+STU-1634,Student_634,student634@sim-univ-germany.example.org,Germany,International,Postgraduate (Masters),Student Ambassador,2026-03-02
+STU-1635,Student_635,student635@sim-univ-china.example.org,China,International,Postgraduate (Masters),Unattributed / Direct,2026-08-23
+STU-1636,Student_636,student636@sim-univ-india.example.org,India,International,PhD / Research,Student Ambassador,2026-08-22
+STU-1637,Student_637,student637@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),University Partner Referral,2025-10-10
+STU-1638,Student_638,student638@sim-univ-india.example.org,India,International,Undergraduate,Organic Search,2025-11-17
+STU-1639,Student_639,student639@sim-univ-india.example.org,India,International,Exchange / Foundation,University Partner Referral,2026-05-12
+STU-1640,Student_640,student640@sim-univ-uk.example.org,UK,Domestic,Undergraduate,Paid Social (Meta/IG),2025-11-08
+STU-1641,Student_641,student641@sim-univ-india.example.org,India,International,Postgraduate (Masters),Paid Social (Meta/IG),2026-04-28
+STU-1642,Student_642,student642@sim-univ-india.example.org,India,International,Postgraduate (Masters),University Partner Referral,2025-11-20
+STU-1643,Student_643,student643@sim-univ-nigeria.example.org,Nigeria,International,Undergraduate,Organic Search,2026-04-27
+STU-1644,Student_644,student644@sim-univ-uk.example.org,UK,Domestic,Postgraduate (Masters),Paid Social (Meta/IG),2026-07-31
+STU-1645,Student_645,student645@sim-univ-india.example.org,India,International,Undergraduate,Paid Social (Meta/IG),2026-09-17
+STU-1646,Student_646,student646@sim-univ-nigeria.example.org,Nigeria,International,Postgraduate (Masters),Student Ambassador,2026-03-28
+STU-1647,Student_647,student647@sim-univ-india.example.org,India,International,Undergraduate,Organic Search,2025-10-14
+STU-1648,Student_648,student648@sim-univ-nigeria.example.org,Nigeria,International,Undergraduate,Organic Search,2026-06-28
+STU-1649,Student_649,student649@sim-univ-india.example.org,India,International,Postgraduate (Masters),Organic Search,2026-09-05
+STU-1650,Student_650,student650@sim-univ-nigeria.example.org,Nigeria,International,Postgraduate (Masters),Paid Social (Meta/IG),2026-02-09

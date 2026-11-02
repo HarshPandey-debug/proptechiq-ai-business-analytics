@@ -1,0 +1,116 @@
+// ============================================================================
+// dax_measures.dax
+// Production Power BI DAX Measures for Synthetic Student Housing Marketplace
+// Star Schema Tables: Fact_Bookings, Fact_Payments, Dim_Properties, Dim_Students, Dim_Calendar
+// Reconciled 100% (£0.00 variance) with PostgreSQL & Python/Pandas ground truth
+// ============================================================================
+
+// --- 1. CORE BOOKING VOLUME & CONVERSION METRICS ---
+
+Total Bookings = COUNTROWS(Fact_Bookings)
+
+Confirmed Bookings = 
+CALCULATE(
+    COUNTROWS(Fact_Bookings),
+    Fact_Bookings[booking_status] = "Confirmed"
+)
+
+Cancelled Bookings = 
+CALCULATE(
+    COUNTROWS(Fact_Bookings),
+    Fact_Bookings[booking_status] = "Cancelled"
+)
+
+Cancellation Rate % = 
+DIVIDE([Cancelled Bookings], [Total Bookings], 0)
+
+Active Students = 
+CALCULATE(
+    DISTINCTCOUNT(Fact_Bookings[student_id]),
+    Fact_Bookings[booking_status] = "Confirmed"
+)
+
+Average Lease Duration (Weeks) = 
+CALCULATE(
+    AVERAGE(Fact_Bookings[lease_weeks]),
+    Fact_Bookings[booking_status] = "Confirmed"
+)
+
+
+// --- 2. REVENUE, COST & NET PROFIT METRICS (GRAIN-SAFE & PENNY-RECONCILED) ---
+
+Confirmed Gross Booking Value (GBV) = 
+CALCULATE(
+    SUM(Fact_Bookings[gross_booking_value_gbp]),
+    Fact_Bookings[booking_status] = "Confirmed"
+)
+
+Recognized Commission Revenue = 
+SUMX(
+    FILTER(Fact_Bookings, Fact_Bookings[booking_status] = "Confirmed"),
+    ROUND(Fact_Bookings[gross_booking_value_gbp] * (RELATED(Dim_Properties[partner_commission_pct]) / 100.0), 2)
+)
+
+Direct Cost (Confirmed Bookings) = 
+SUMX(
+    FILTER(Fact_Bookings, Fact_Bookings[booking_status] = "Confirmed"),
+    Fact_Bookings[marketing_cpa_gbp] + RELATED(Dim_Properties[ops_servicing_cost_gbp])
+)
+
+Sunk Marketing Cost (Unconfirmed Bookings) = 
+CALCULATE(
+    SUM(Fact_Bookings[marketing_cpa_gbp]),
+    Fact_Bookings[booking_status] <> "Confirmed"
+)
+
+Confirmed Net Profit = 
+[Recognized Commission Revenue] - [Direct Cost (Confirmed Bookings)]
+
+Fully Loaded Net Profit (Incl. Sunk CPA) = 
+[Confirmed Net Profit] - [Sunk Marketing Cost (Unconfirmed Bookings)]
+
+Net Profit Margin % = 
+DIVIDE([Confirmed Net Profit], [Recognized Commission Revenue], 0)
+
+Marketing ROAS (x) = 
+DIVIDE(
+    [Recognized Commission Revenue],
+    SUM(Fact_Bookings[marketing_cpa_gbp]),
+    0
+)
+
+
+// --- 3. TIME INTELLIGENCE & TREND METRICS (REQUIRES Dim_Calendar) ---
+
+Prev Month Revenue = 
+CALCULATE(
+    [Recognized Commission Revenue],
+    DATEADD(Dim_Calendar[Date], -1, MONTH)
+)
+
+MoM Revenue Growth % = 
+DIVIDE(
+    [Recognized Commission Revenue] - [Prev Month Revenue],
+    [Prev Month Revenue],
+    BLANK()
+)
+
+Rolling 3M Avg Revenue = 
+AVERAGEX(
+    DATESINPERIOD(
+        Dim_Calendar[Date],
+        MAX(Dim_Calendar[Date]),
+        -3,
+        MONTH
+    ),
+    [Recognized Commission Revenue]
+)
+
+
+// --- 4. INSTALLMENT COLLECTION METRICS (ISOLATED FACT GRAIN) ---
+
+Collected Installment Cash (GBP) = 
+CALCULATE(
+    SUM(Fact_Payments[installment_amount_gbp]),
+    Fact_Payments[payment_status] = "Paid"
+)

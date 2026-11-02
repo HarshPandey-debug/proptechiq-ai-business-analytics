@@ -1,0 +1,29 @@
+property_id,property_name,city,university_corridor,room_tier,total_beds,standard_weekly_rent_gbp,partner_commission_pct,ops_servicing_cost_gbp
+PROP-101,CampusStay London Ensuite 102,London,University College London (UCL),Ensuite Standard,150,312.0,7.25,192.0
+PROP-102,CampusStay London Ensuite 103,London,University College London (UCL),Ensuite Gold,80,379.0,7.5,192.0
+PROP-103,CampusStay London Studio 104,"LONDON, UK",University College London (UCL),Studio Classic,150,439.0,8.25,218.0
+PROP-104,CampusStay London Studio 105,London,University College London (UCL),Studio Penthouse,150,522.0,9.0,249.0
+PROP-105,CampusStay London Ensuite 106,London,King's College London,Ensuite Standard,120,320.0,,181.0
+PROP-106,CampusStay London Ensuite 107,London,King's College London,Ensuite Gold,80,368.0,7.5,199.0
+PROP-107,CampusStay London Studio 108,London,King's College London,Studio Classic,250,426.0,8.25,198.0
+PROP-108,CampusStay London Studio 109,London,King's College London,Studio Penthouse,150,520.0,9.0,229.0
+PROP-109,CampusStay Manchester Ensuite 110,Manchester,University of Manchester,Ensuite Standard,200,186.0,7.25,150.0
+PROP-110,CampusStay Manchester Ensuite 111,Manchester,University of Manchester,Ensuite Gold,80,224.0,7.5,153.0
+PROP-111,CampusStay Manchester Studio 112,Manchester,University of Manchester,Studio Classic,80,264.0,8.25,170.0
+PROP-112,CampusStay Manchester Studio 113,Manchester,University of Manchester,Studio Penthouse,80,326.0,9.0,203.0
+PROP-113,CampusStay Birmingham Ensuite 114,Birmingham,University of Birmingham,Ensuite Standard,120,190.0,7.25,130.0
+PROP-114,CampusStay Birmingham Ensuite 115,Birmingham,University of Birmingham,Ensuite Gold,120,218.0,7.5,147.0
+PROP-115,CampusStay Birmingham Studio 116,birmingham,University of Birmingham,Studio Classic,200,250.0,8.25,170.0
+PROP-116,CampusStay Birmingham Studio 117,Birmingham,University of Birmingham,Studio Penthouse,200,306.0,9.0,192.0
+PROP-117,CampusStay Edinburgh Ensuite 118,edinburgh,University of Edinburgh,Ensuite Standard,80,227.0,7.25,158.0
+PROP-118,CampusStay Edinburgh Ensuite 119,Edinburgh,University of Edinburgh,Ensuite Gold,80,265.0,7.5,167.0
+PROP-119,CampusStay Edinburgh Studio 120,Edinburgh,University of Edinburgh,Studio Classic,150,313.0,8.25,183.0
+PROP-120,CampusStay Edinburgh Studio 121,Edinburgh,University of Edinburgh,Studio Penthouse,250,376.0,9.0,201.0
+PROP-121,CampusStay Glasgow Ensuite 122,Glasgow,University of Glasgow,Ensuite Standard,250,180.0,,150.0
+PROP-122,CampusStay Glasgow Ensuite 123,Glasgow,University of Glasgow,Ensuite Gold,150,224.0,7.5,146.0
+PROP-123,CampusStay Glasgow Studio 124,Glasgow,University of Glasgow,Studio Classic,200,256.0,8.25,166.0
+PROP-124,CampusStay Glasgow Studio 125, Glasgow ,University of Glasgow,Studio Penthouse,80,305.0,,201.0
+PROP-125,CampusStay Nottingham Ensuite 126,Nottingham,University of Nottingham,Ensuite Standard,200,179.0,7.25,137.0
+PROP-126,CampusStay Nottingham Ensuite 127,Nottingham,University of Nottingham,Ensuite Gold,80,189.0,7.5,152.0
+PROP-127,CampusStay Nottingham Studio 128,Nottingham,University of Nottingham,Studio Classic,200,224.0,8.25,156.0
+PROP-128,CampusStay Nottingham Studio 129,nottingham,University of Nottingham,Studio Penthouse,120,286.0,9.0,196.0

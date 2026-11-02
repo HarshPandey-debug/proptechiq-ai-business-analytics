@@ -1,0 +1,512 @@
+{
+  "city_breakdown": [
+    {
+      "city": "London",
+      "confirmed_bookings": 273,
+      "avg_lease_weeks": 42.6,
+      "total_gbv_gbp": 4812140.0,
+      "platform_revenue_gbp": 391944.65,
+      "total_direct_cost_gbp": 76655.21,
+      "net_profit_gbp": 315289.44,
+      "net_profit_margin_pct": 80.44
+    },
+    {
+      "city": "Edinburgh",
+      "confirmed_bookings": 151,
+      "avg_lease_weeks": 42.9,
+      "total_gbv_gbp": 1876360.0,
+      "platform_revenue_gbp": 151192.36,
+      "total_direct_cost_gbp": 37906.27,
+      "net_profit_gbp": 113286.09,
+      "net_profit_margin_pct": 74.93
+    },
+    {
+      "city": "Manchester",
+      "confirmed_bookings": 133,
+      "avg_lease_weeks": 42.3,
+      "total_gbv_gbp": 1441720.0,
+      "platform_revenue_gbp": 118762.32,
+      "total_direct_cost_gbp": 33187.87,
+      "net_profit_gbp": 85574.45,
+      "net_profit_margin_pct": 72.06
+    },
+    {
+      "city": "Birmingham",
+      "confirmed_bookings": 129,
+      "avg_lease_weeks": 43.1,
+      "total_gbv_gbp": 1336136.0,
+      "platform_revenue_gbp": 108567.14,
+      "total_direct_cost_gbp": 30416.6,
+      "net_profit_gbp": 78150.54,
+      "net_profit_margin_pct": 71.98
+    },
+    {
+      "city": "Nottingham",
+      "confirmed_bookings": 131,
+      "avg_lease_weeks": 44.5,
+      "total_gbv_gbp": 1298828.0,
+      "platform_revenue_gbp": 106277.9,
+      "total_direct_cost_gbp": 31171.19,
+      "net_profit_gbp": 75106.71,
+      "net_profit_margin_pct": 70.67
+    },
+    {
+      "city": "Glasgow",
+      "confirmed_bookings": 128,
+      "avg_lease_weeks": 42.8,
+      "total_gbv_gbp": 1301380.0,
+      "platform_revenue_gbp": 104874.12,
+      "total_direct_cost_gbp": 30355.07,
+      "net_profit_gbp": 74519.05,
+      "net_profit_margin_pct": 71.06
+    }
+  ],
+  "tier_breakdown": [
+    {
+      "room_tier": "Studio Penthouse",
+      "total_bookings": 291,
+      "confirmed_bookings": 248,
+      "cancellation_rate_pct": 9.62,
+      "confirmed_gbv_gbp": 4062148.0,
+      "recognized_revenue_gbp": 365593.32,
+      "fully_loaded_cost_gbp": 74399.08,
+      "fully_loaded_net_profit_gbp": 291194.24
+    },
+    {
+      "room_tier": "Studio Classic",
+      "total_bookings": 258,
+      "confirmed_bookings": 222,
+      "cancellation_rate_pct": 8.14,
+      "confirmed_gbv_gbp": 2874196.0,
+      "recognized_revenue_gbp": 237121.17,
+      "fully_loaded_cost_gbp": 58987.45,
+      "fully_loaded_net_profit_gbp": 178133.72
+    },
+    {
+      "room_tier": "Ensuite Gold",
+      "total_bookings": 276,
+      "confirmed_bookings": 235,
+      "cancellation_rate_pct": 10.87,
+      "confirmed_gbv_gbp": 2785220.0,
+      "recognized_revenue_gbp": 208891.5,
+      "fully_loaded_cost_gbp": 59708.42,
+      "fully_loaded_net_profit_gbp": 149183.08
+    },
+    {
+      "room_tier": "Ensuite Standard",
+      "total_bookings": 275,
+      "confirmed_bookings": 240,
+      "cancellation_rate_pct": 9.82,
+      "confirmed_gbv_gbp": 2345000.0,
+      "recognized_revenue_gbp": 170012.5,
+      "fully_loaded_cost_gbp": 57780.91,
+      "fully_loaded_net_profit_gbp": 112231.59
+    }
+  ],
+  "customer_cohort_segmentation": [
+    {
+      "student_cohort": "International",
+      "study_level": "Postgraduate (Masters)",
+      "active_students": 199,
+      "confirmed_bookings": 382,
+      "avg_lease_weeks": 43.1,
+      "avg_booking_gbv_gbp": 12696.62,
+      "segment_gbv_gbp": 4850108.0,
+      "segment_revenue_gbp": 394324.59,
+      "segment_net_profit_gbp": 297602.42
+    },
+    {
+      "student_cohort": "International",
+      "study_level": "Undergraduate",
+      "active_students": 128,
+      "confirmed_bookings": 239,
+      "avg_lease_weeks": 43.4,
+      "avg_booking_gbv_gbp": 12879.98,
+      "segment_gbv_gbp": 3078316.0,
+      "segment_revenue_gbp": 250541.55,
+      "segment_net_profit_gbp": 189383.82
+    },
+    {
+      "student_cohort": "Domestic",
+      "study_level": "Postgraduate (Masters)",
+      "active_students": 59,
+      "confirmed_bookings": 100,
+      "avg_lease_weeks": 43.0,
+      "avg_booking_gbv_gbp": 12634.88,
+      "segment_gbv_gbp": 1263488.0,
+      "segment_revenue_gbp": 102622.16,
+      "segment_net_profit_gbp": 77490.3
+    },
+    {
+      "student_cohort": "Domestic",
+      "study_level": "Undergraduate",
+      "active_students": 34,
+      "confirmed_bookings": 71,
+      "avg_lease_weeks": 43.5,
+      "avg_booking_gbv_gbp": 13237.8,
+      "segment_gbv_gbp": 939884.0,
+      "segment_revenue_gbp": 76906.06,
+      "segment_net_profit_gbp": 58873.79
+    },
+    {
+      "student_cohort": "International",
+      "study_level": "PhD / Research",
+      "active_students": 38,
+      "confirmed_bookings": 70,
+      "avg_lease_weeks": 41.7,
+      "avg_booking_gbv_gbp": 12535.94,
+      "segment_gbv_gbp": 877516.0,
+      "segment_revenue_gbp": 70312.71,
+      "segment_net_profit_gbp": 52948.75
+    },
+    {
+      "student_cohort": "International",
+      "study_level": "Exchange / Foundation",
+      "active_students": 31,
+      "confirmed_bookings": 53,
+      "avg_lease_weeks": 43.8,
+      "avg_booking_gbv_gbp": 13677.36,
+      "segment_gbv_gbp": 724900.0,
+      "segment_revenue_gbp": 59876.77,
+      "segment_net_profit_gbp": 46100.98
+    },
+    {
+      "student_cohort": "Domestic",
+      "study_level": "PhD / Research",
+      "active_students": 7,
+      "confirmed_bookings": 15,
+      "avg_lease_weeks": 40.0,
+      "avg_booking_gbv_gbp": 11347.2,
+      "segment_gbv_gbp": 170208.0,
+      "segment_revenue_gbp": 13872.05,
+      "segment_net_profit_gbp": 10019.66
+    },
+    {
+      "student_cohort": "Domestic",
+      "study_level": "Exchange / Foundation",
+      "active_students": 7,
+      "confirmed_bookings": 15,
+      "avg_lease_weeks": 38.1,
+      "avg_booking_gbv_gbp": 10809.6,
+      "segment_gbv_gbp": 162144.0,
+      "segment_revenue_gbp": 13162.6,
+      "segment_net_profit_gbp": 9506.56
+    }
+  ],
+  "customer_value_tiers": [
+    {
+      "customer_value_tier": "1 - VIP Platinum (>= \u00a31,800 Rev)",
+      "student_count": 241,
+      "share_of_students_pct": 47.91,
+      "avg_student_gbv_gbp": 35921.03,
+      "tier_total_revenue_gbp": 711858.06,
+      "share_of_revenue_pct": 72.52,
+      "tier_net_profit_gbp": 552084.37
+    },
+    {
+      "customer_value_tier": "2 - High-Value Gold (\u00a31,100 - \u00a31,799)",
+      "student_count": 119,
+      "share_of_students_pct": 23.66,
+      "avg_student_gbv_gbp": 17287.56,
+      "tier_total_revenue_gbp": 166316.71,
+      "share_of_revenue_pct": 16.94,
+      "tier_net_profit_gbp": 121838.23
+    },
+    {
+      "customer_value_tier": "3 - Core Silver (\u00a3700 - \u00a31,099)",
+      "student_count": 87,
+      "share_of_students_pct": 17.3,
+      "avg_student_gbv_gbp": 11254.16,
+      "tier_total_revenue_gbp": 74824.72,
+      "share_of_revenue_pct": 7.62,
+      "tier_net_profit_gbp": 52970.29
+    },
+    {
+      "customer_value_tier": "4 - Short-Stay Bronze (< \u00a3700)",
+      "student_count": 56,
+      "share_of_students_pct": 11.13,
+      "avg_student_gbv_gbp": 6665.43,
+      "tier_total_revenue_gbp": 28619.0,
+      "share_of_revenue_pct": 2.92,
+      "tier_net_profit_gbp": 15033.39
+    }
+  ],
+  "monthly_trends": [
+    {
+      "booking_month": "2025-11",
+      "confirmed_bookings": 50,
+      "monthly_gbv_gbp": 613388.0,
+      "monthly_revenue_gbp": 50192.69,
+      "monthly_net_profit_gbp": 37447.01,
+      "prev_month_revenue_gbp": NaN,
+      "mom_revenue_growth_pct": NaN,
+      "rolling_3m_avg_revenue_gbp": 50192.69
+    },
+    {
+      "booking_month": "2025-12",
+      "confirmed_bookings": 79,
+      "monthly_gbv_gbp": 1013360.0,
+      "monthly_revenue_gbp": 82923.72,
+      "monthly_net_profit_gbp": 63101.81,
+      "prev_month_revenue_gbp": 50192.69,
+      "mom_revenue_growth_pct": 65.21,
+      "rolling_3m_avg_revenue_gbp": 66558.21
+    },
+    {
+      "booking_month": "2026-01",
+      "confirmed_bookings": 86,
+      "monthly_gbv_gbp": 1153752.0,
+      "monthly_revenue_gbp": 93899.42,
+      "monthly_net_profit_gbp": 72125.64,
+      "prev_month_revenue_gbp": 82923.72,
+      "mom_revenue_growth_pct": 13.24,
+      "rolling_3m_avg_revenue_gbp": 75671.94
+    },
+    {
+      "booking_month": "2026-02",
+      "confirmed_bookings": 62,
+      "monthly_gbv_gbp": 793308.0,
+      "monthly_revenue_gbp": 63294.73,
+      "monthly_net_profit_gbp": 48253.87,
+      "prev_month_revenue_gbp": 93899.42,
+      "mom_revenue_growth_pct": -32.59,
+      "rolling_3m_avg_revenue_gbp": 80039.29
+    },
+    {
+      "booking_month": "2026-03",
+      "confirmed_bookings": 57,
+      "monthly_gbv_gbp": 694016.0,
+      "monthly_revenue_gbp": 56279.68,
+      "monthly_net_profit_gbp": 41704.2,
+      "prev_month_revenue_gbp": 63294.73,
+      "mom_revenue_growth_pct": -11.08,
+      "rolling_3m_avg_revenue_gbp": 71157.94
+    },
+    {
+      "booking_month": "2026-04",
+      "confirmed_bookings": 77,
+      "monthly_gbv_gbp": 1030500.0,
+      "monthly_revenue_gbp": 84308.95,
+      "monthly_net_profit_gbp": 64226.15,
+      "prev_month_revenue_gbp": 56279.68,
+      "mom_revenue_growth_pct": 49.8,
+      "rolling_3m_avg_revenue_gbp": 67961.12
+    },
+    {
+      "booking_month": "2026-05",
+      "confirmed_bookings": 100,
+      "monthly_gbv_gbp": 1246532.0,
+      "monthly_revenue_gbp": 101740.36,
+      "monthly_net_profit_gbp": 75974.92,
+      "prev_month_revenue_gbp": 84308.95,
+      "mom_revenue_growth_pct": 20.68,
+      "rolling_3m_avg_revenue_gbp": 80776.33
+    },
+    {
+      "booking_month": "2026-06",
+      "confirmed_bookings": 128,
+      "monthly_gbv_gbp": 1782500.0,
+      "monthly_revenue_gbp": 146321.78,
+      "monthly_net_profit_gbp": 113205.05,
+      "prev_month_revenue_gbp": 101740.36,
+      "mom_revenue_growth_pct": 43.82,
+      "rolling_3m_avg_revenue_gbp": 110790.36
+    },
+    {
+      "booking_month": "2026-07",
+      "confirmed_bookings": 129,
+      "monthly_gbv_gbp": 1566688.0,
+      "monthly_revenue_gbp": 127096.82,
+      "monthly_net_profit_gbp": 94738.93,
+      "prev_month_revenue_gbp": 146321.78,
+      "mom_revenue_growth_pct": -13.14,
+      "rolling_3m_avg_revenue_gbp": 125052.99
+    },
+    {
+      "booking_month": "2026-08",
+      "confirmed_bookings": 104,
+      "monthly_gbv_gbp": 1252768.0,
+      "monthly_revenue_gbp": 101088.92,
+      "monthly_net_profit_gbp": 74998.89,
+      "prev_month_revenue_gbp": 127096.82,
+      "mom_revenue_growth_pct": -20.46,
+      "rolling_3m_avg_revenue_gbp": 124835.84
+    },
+    {
+      "booking_month": "2026-09",
+      "confirmed_bookings": 39,
+      "monthly_gbv_gbp": 516264.0,
+      "monthly_revenue_gbp": 42091.46,
+      "monthly_net_profit_gbp": 32063.06,
+      "prev_month_revenue_gbp": 101088.92,
+      "mom_revenue_growth_pct": -58.36,
+      "rolling_3m_avg_revenue_gbp": 90092.4
+    },
+    {
+      "booking_month": "2026-10",
+      "confirmed_bookings": 34,
+      "monthly_gbv_gbp": 403488.0,
+      "monthly_revenue_gbp": 32379.96,
+      "monthly_net_profit_gbp": 24086.75,
+      "prev_month_revenue_gbp": 42091.46,
+      "mom_revenue_growth_pct": -23.07,
+      "rolling_3m_avg_revenue_gbp": 58520.11
+    }
+  ],
+  "channel_scorecard": [
+    {
+      "acquisition_channel": "Organic Search",
+      "total_bookings": 334,
+      "confirmed_bookings": 288,
+      "total_marketing_spend_gbp": 24698.24,
+      "recognized_revenue_gbp": 289045.25,
+      "revenue_to_cpa_roas_x": 11.7
+    },
+    {
+      "acquisition_channel": "University Partner Referral",
+      "total_bookings": 258,
+      "confirmed_bookings": 222,
+      "total_marketing_spend_gbp": 19431.69,
+      "recognized_revenue_gbp": 244386.12,
+      "revenue_to_cpa_roas_x": 12.58
+    },
+    {
+      "acquisition_channel": "Paid Social (Meta/IG)",
+      "total_bookings": 203,
+      "confirmed_bookings": 174,
+      "total_marketing_spend_gbp": 14978.14,
+      "recognized_revenue_gbp": 168836.63,
+      "revenue_to_cpa_roas_x": 11.27
+    },
+    {
+      "acquisition_channel": "Direct / Repeat",
+      "total_bookings": 108,
+      "confirmed_bookings": 96,
+      "total_marketing_spend_gbp": 8240.71,
+      "recognized_revenue_gbp": 102338.39,
+      "revenue_to_cpa_roas_x": 12.42
+    },
+    {
+      "acquisition_channel": "Student Ambassador",
+      "total_bookings": 115,
+      "confirmed_bookings": 95,
+      "total_marketing_spend_gbp": 8744.17,
+      "recognized_revenue_gbp": 100186.71,
+      "revenue_to_cpa_roas_x": 11.46
+    },
+    {
+      "acquisition_channel": "Unattributed / Direct",
+      "total_bookings": 82,
+      "confirmed_bookings": 70,
+      "total_marketing_spend_gbp": 6129.91,
+      "recognized_revenue_gbp": 76825.39,
+      "revenue_to_cpa_roas_x": 12.53
+    }
+  ],
+  "ai_mistake_comparison_by_city": [
+    {
+      "city": "London",
+      "verified_confirmed_bookings": 273,
+      "verified_gbv_gbp": 4812140.0,
+      "verified_revenue_gbp": 391944.65,
+      "verified_net_profit_gbp": 315289.44,
+      "verified_payments_collected_gbp": 4812140.0,
+      "ai_reported_bookings": 1324,
+      "ai_inflated_gbv_gbp": 23448684.0,
+      "ai_inflated_revenue_gbp": 1916580.46,
+      "ai_inflated_net_profit_gbp": 1542704.92,
+      "ai_inflated_payments_collected_gbp": 7850180.0,
+      "revenue_overstatement_gbp": 1524635.81,
+      "revenue_error_pct": 388.99
+    },
+    {
+      "city": "Edinburgh",
+      "verified_confirmed_bookings": 151,
+      "verified_gbv_gbp": 1876360.0,
+      "verified_revenue_gbp": 151192.36,
+      "verified_net_profit_gbp": 113286.09,
+      "verified_payments_collected_gbp": 1876360.0,
+      "ai_reported_bookings": 850,
+      "ai_inflated_gbv_gbp": 10270244.0,
+      "ai_inflated_revenue_gbp": 824544.99,
+      "ai_inflated_net_profit_gbp": 612390.75,
+      "ai_inflated_payments_collected_gbp": 3701880.0,
+      "revenue_overstatement_gbp": 673352.63,
+      "revenue_error_pct": 445.36
+    },
+    {
+      "city": "Manchester",
+      "verified_confirmed_bookings": 133,
+      "verified_gbv_gbp": 1441720.0,
+      "verified_revenue_gbp": 118762.32,
+      "verified_net_profit_gbp": 85574.45,
+      "verified_payments_collected_gbp": 1441720.0,
+      "ai_reported_bookings": 994,
+      "ai_inflated_gbv_gbp": 11404992.0,
+      "ai_inflated_revenue_gbp": 956516.22,
+      "ai_inflated_net_profit_gbp": 703045.01,
+      "ai_inflated_payments_collected_gbp": 3801384.0,
+      "revenue_overstatement_gbp": 837753.9,
+      "revenue_error_pct": 705.4
+    },
+    {
+      "city": "Birmingham",
+      "verified_confirmed_bookings": 129,
+      "verified_gbv_gbp": 1336136.0,
+      "verified_revenue_gbp": 108567.14,
+      "verified_net_profit_gbp": 78150.54,
+      "verified_payments_collected_gbp": 1336136.0,
+      "ai_reported_bookings": 804,
+      "ai_inflated_gbv_gbp": 8287120.0,
+      "ai_inflated_revenue_gbp": 663652.8,
+      "ai_inflated_net_profit_gbp": 476431.9,
+      "ai_inflated_payments_collected_gbp": 2645336.0,
+      "revenue_overstatement_gbp": 555085.66,
+      "revenue_error_pct": 511.28
+    },
+    {
+      "city": "Nottingham",
+      "verified_confirmed_bookings": 131,
+      "verified_gbv_gbp": 1298828.0,
+      "verified_revenue_gbp": 106277.9,
+      "verified_net_profit_gbp": 75106.71,
+      "verified_payments_collected_gbp": 1298828.0,
+      "ai_reported_bookings": 847,
+      "ai_inflated_gbv_gbp": 8477760.0,
+      "ai_inflated_revenue_gbp": 693255.02,
+      "ai_inflated_net_profit_gbp": 491087.66,
+      "ai_inflated_payments_collected_gbp": 2956952.0,
+      "revenue_overstatement_gbp": 586977.12,
+      "revenue_error_pct": 552.3
+    },
+    {
+      "city": "Glasgow",
+      "verified_confirmed_bookings": 128,
+      "verified_gbv_gbp": 1301380.0,
+      "verified_revenue_gbp": 104874.12,
+      "verified_net_profit_gbp": 74519.05,
+      "verified_payments_collected_gbp": 1301380.0,
+      "ai_reported_bookings": 806,
+      "ai_inflated_gbv_gbp": 7925396.0,
+      "ai_inflated_revenue_gbp": 622802.76,
+      "ai_inflated_net_profit_gbp": 439006.53,
+      "ai_inflated_payments_collected_gbp": 2577604.0,
+      "revenue_overstatement_gbp": 517928.64,
+      "revenue_error_pct": 493.86
+    }
+  ],
+  "ai_mistake_totals": {
+    "verified_total_bookings": 945,
+    "ai_broken_total_bookings": 5625,
+    "verified_total_gbv_gbp": 12066564.0,
+    "ai_broken_total_gbv_gbp": 69814196.0,
+    "verified_total_revenue_gbp": 981618.49,
+    "ai_broken_total_revenue_gbp": 5677352.25,
+    "verified_total_net_profit_gbp": 741926.28,
+    "ai_broken_total_net_profit_gbp": 4264666.77,
+    "verified_total_payments_gbp": 12066564.0,
+    "ai_broken_total_payments_gbp": 23533336.0,
+    "total_revenue_overstatement_gbp": 4695733.76,
+    "total_revenue_overstatement_pct": 478.37
+  }
+}
