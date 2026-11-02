@@ -24,6 +24,7 @@ import sqlite3
 from pathlib import Path
 from typing import Any
 import pandas as pd
+from dotenv import load_dotenv
 
 try:
     from google import genai
@@ -119,7 +120,8 @@ class PropTechAnalyticsAssistant:
     def __init__(self, repo_root: Path, model_name: str = "gemini-2.0-flash"):
         self.repo_root = repo_root
         self.clean_dir = repo_root / "data" / "cleaned"
-        self.model_name = model_name
+        load_dotenv(repo_root / ".env")
+        self.model_name = os.getenv("GEMINI_MODEL", model_name)
         self.api_key = os.getenv("GEMINI_API_KEY")
         self.db_url = os.getenv("DATABASE_URL")
 

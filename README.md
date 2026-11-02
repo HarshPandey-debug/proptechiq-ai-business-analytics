@@ -119,6 +119,11 @@ python3 src/data_cleaning.py
 python3 src/verify_ai_vs_ground_truth.py
 
 # 4. Run the Gemini AI Analytics Assistant (Demo mode or custom question)
-export GEMINI_API_KEY="your-api-key"
+# Create .env from .env.example and set GEMINI_API_KEY=your-api-key
 python3 src/ai_analytics_assistant.py --demo
 ```
+
+The assistant loads `GEMINI_API_KEY`, `GEMINI_MODEL`, and the optional
+`DATABASE_URL` from the project-root `.env` file. Leave `DATABASE_URL` blank
+to use the local SQLite fallback. On Windows PowerShell, use
+`Copy-Item .env.example .env` instead of `cp .env.example .env`.
